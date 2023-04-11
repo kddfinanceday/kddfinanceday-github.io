@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: '#about'
+  # - title: "Call for Talks"
+    # url: 'call'
+  - title: "Program"
+    url: 'program'
+  # - title: "Speakers"
+  #   url: 'speakers'
+  - title: "Organizers"
+    url: '#organizers'
+  # - title: "Bibliography"
+  #   url: '/papers'
+  # - title: "Tags"
+  #   url: /tags/
