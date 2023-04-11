@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "KDD Trustworthy AI Day 2022"
+title: "KDD Finance Day 2023"
 # subtitle: Understanding the Limits and Pushing the Boundaries of Deep Learning
 # email: sameer@uci.edu
 description: 
-- KDD 2022, August 15, 2022.
+- KDD 2023, August 16, 2023.
 # - Virtual
 # twitter_username: username
 # github_username: uci-ml-repo
@@ -64,12 +64,14 @@ plugins:
 
 footer:
   links:
-    - label: "@hima_lakkaraju"
+    - label: "@grace_wang"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hima_lakkaraju"
-    - label: "@achould"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/achould"
+      url: "https://web.njit.edu/~gwang/"
+      
+#     - label: "@achould"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/achould"
+      
     # - label: "@baharanm"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/baharanm"
