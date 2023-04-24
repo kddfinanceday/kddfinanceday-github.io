@@ -6,9 +6,10 @@ title: Speakers
 layout: single
 classes: wide
 author_profile: false
-
+---
 Will announce soon!
 
+<!--
 # speakers:
 
 #   - image_path: assets/images/jason_lee.jpeg
