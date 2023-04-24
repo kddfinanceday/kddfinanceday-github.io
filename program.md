@@ -6,8 +6,14 @@ title: Program
 layout: single
 classes: wide
 author_profile: false
+
+KDD Finance Day 2023 will take place on **August, 2023**. More schedule will be released soon.
+
+
+
+<!--
 ---
-KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm EDT**.  To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
+KDD Finance Day 2023 will take place on **August, 2023, 8:30am-5:00pm EDT**.  To attend the event, please register for the [KDD 2023 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
 <table class="tg">
 <tbody>
