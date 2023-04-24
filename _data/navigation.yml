@@ -5,8 +5,8 @@ main:
     # url: 'call'
   - title: "Program"
     url: 'program'
-  # - title: "Speakers"
-  #   url: 'speakers'
+  - title: "Speakers"
+    url: 'speakers'
   - title: "Organizers"
     url: '#organizers'
   # - title: "Bibliography"
