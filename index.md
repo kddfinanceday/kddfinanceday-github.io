@@ -1,11 +1,42 @@
 ---
-title: Trustworthy AI Day
+title: Finance Day
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
 author_profile: false
+
+
+organizers_row_first:
+  - image_path: assets/images/grace.jpg
+    alt: "Guiling (Grace) Wang"
+    title: "Guiling (Grace) Wang"
+    excerpt: "New Jersey Institute of Technolog"
+    url: "https://web.njit.edu/~gwang/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+    #&#128279
+students:
+  - image_path: assets/images/jingyi.png
+    alt: "Jingyi Gu"
+    title: "Jingyi Gu"
+    excerpt: "New Jersey Institute of Technology"
+    url: "https://jingyigu.github.io/homepage.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+
+---
+<br/>
+# About
+
+
+KDD Finance Day 2023 will take place on **August, 2023**. On behalf of the Finance Day and KDD 2023 organizing committee, we welcome you all to attend this event!
+
+
+
+
+<!--
 organizers_row_first:
   - image_path: assets/images/alex_chouldechova.jpg
     alt: "Alexandra Chouldechova"
@@ -45,13 +76,6 @@ organizers_row_second:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 students:
-#   - image_path: assets/images/shushan.png
-#     alt: "Shushan Arakelyan"
-#     title: "Shushan Arakelyan"
-#     excerpt: "USC"
-#     url: "https://shushanarakelyan.github.io/"
-#     btn_label: "Homepage"
-#     btn_class: "btn--primary"
   - image_path: assets/images/harvineet.png
     alt: "Harvineet Singh"
     title: "Harvineet Singh"
@@ -59,40 +83,7 @@ students:
     url: "https://harvineet.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-#   - image_path: assets/images/dylan.png
-#     alt: "Dylan Slack"
-#     title: "Dylan Slack"
-#     excerpt: "UC Irvine"
-#     url: "https://dylanslacks.website/"
-#     btn_label: "Homepage"
-#     btn_class: "btn--primary"
-# theory_row:
-#   - image_path: assets/images/jason_lee.jpeg
-#     alt: "Jason Lee"
-#     title: "Jason Lee"
-#     excerpt: "Princeton"
-#     # url: "https://jasondlee88.github.io/"
-#     # btn_label: "Homepage"
-#     # btn_class: "btn--primary"
-#   - image_path: assets/images/yasaman_bahri.png
-#     alt: "Yasaman Bahri"
-#     title: "Yasaman Bahri"
-#     excerpt: "Google Brain"
-#     # url: "https://jasondlee88.github.io/"
-#     # btn_label: "Homepage"
-#     # btn_class: "btn--primary"
-# venue_row:
-#   - image_path: assets/images/neurips.png
-#     alt: "NeurIPS 2020"
-#     title: "NeurIPS 2020"
-#     # excerpt: "Harvard University"
-#     url: "/neurips20"
-#     btn_label: "Materials"
-#     btn_class: "btn--primary"
-#   - image_path: assets/images/aaai.png
-#     alt: "AAAI 2021"
-#     title: "AAAI 2021"
-#     excerpt: "Coming Soon"
+
 ---
 <br/>
 # About
@@ -103,7 +94,7 @@ KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm 
 
 ## To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
-
+-->
 <!-- #Call
 
 We plan to solicit short paper submissions for “deep learning critique” from the community, which aims to better understand and to improve all stages of the research process in deep learning. Accepted papers will be given a 15-min slot for contributed talk on the DL day. We invite you to refer to an earlier effort to register trends and debates, analyze bad practices and inventorize open problems at “Critiquing and Correcting Trends in Machine Learning 2018” Workshop: https://ml-critique-correct.github.io/.
@@ -163,3 +154,4 @@ We plan to solicit short paper submissions for “deep learning critique” from
 {% endfor %}
 
 {% include paginator.html %} -->
+
