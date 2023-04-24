@@ -43,9 +43,6 @@ Will announce soon!
 {% include feature_row id="speakers" type="left" %}
 </section> -->
 
-<br/>
-
-# Contributed Speakers
 
 <!-- <section class="invited-speakers">
 {% include feature_row id="contributed" type="left" %}
