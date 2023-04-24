@@ -18,7 +18,7 @@ organizers_row_first:
     btn_class: "btn--primary"
     #&#128279
 students:
-  - image_path: assets/images/jingyi.png
+  - image_path: assets/images/jingyi.jpg
     alt: "Jingyi Gu"
     title: "Jingyi Gu"
     excerpt: "New Jersey Institute of Technology"
