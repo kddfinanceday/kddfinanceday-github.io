@@ -268,3 +268,4 @@ to do triathlons and study ballet and admits she Is mediocre at these activities
 > **Abstract:** TBD
 
 > **Biography:** Anne L. Washington is Public Interest Technologist serving as an Assistant Professor of Data Policy at the NYU Steinhardt School. Her expertise on public sector information currently addresses the emerging governance needs of data science. The National Science Foundation has funded her research multiple times including a prestigious 5-year NSF CAREER grant on open government data. Her data-intensive projects draw on both interpretive research methods and computational text analysis. She holds an undergraduate degree in computer science from Brown University and a doctorate in Information Systems and Technology Management from  The George Washington University  School of Business.
+  -->
