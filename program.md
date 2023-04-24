@@ -6,7 +6,7 @@ title: Program
 layout: single
 classes: wide
 author_profile: false
-
+---
 KDD Finance Day 2023 will take place on **August, 2023**. More schedule will be released soon.
 
 
