@@ -32,7 +32,7 @@ organizers_row_first:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
-students:
+sponsorship:
   - image_path: assets/images/nec.png
     alt: "NEC Laboratories America, Inc. (NEC Labs)"
     title: "NEC Laboratories America, Inc. (NEC Labs)"
@@ -146,9 +146,9 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="organizers_row_second" %}
 
-## Student Organizer
+## Sponsorship
 
-{% include feature_row id="students" %}
+{% include feature_row id="sponsorship" %}
 
 </section>
 
