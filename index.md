@@ -31,16 +31,16 @@ organizers_row_first:
     url: "https://twitter.com/tuckerbalch?lang=en"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-<!-- students:
-  - image_path: assets/images/jingyi.jpg
-    alt: "Jingyi Gu"
-    title: "Jingyi Gu"
-    excerpt: "New Jersey Institute of Technology"
-    url: "https://jingyigu.github.io/homepage.github.io/"
+Sponsorship:
+  - image_path: assets/images/nec.png
+    alt: "NEC Laboratories America, Inc. (NEC Labs)"
+    title: "NEC Laboratories America, Inc. (NEC Labs)"
+<!--     excerpt: "New Jersey Institute of Technology" -->
+    url: "https://www.nec-labs.com"
     btn_label: "Homepage"
     btn_class: "btn--primary"
- -->
 ---
+
 <br/>
 # About
 
@@ -90,13 +90,14 @@ organizers_row_second:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 students:
-  - image_path: assets/images/harvineet.png
-    alt: "Harvineet Singh"
-    title: "Harvineet Singh"
-    excerpt: "New York University"
-    url: "https://harvineet.github.io/"
+  - image_path: assets/images/jingyi.jpg
+    alt: "Jingyi Gu"
+    title: "Jingyi Gu"
+    excerpt: "New Jersey Institute of Technology"
+    url: "https://jingyigu.github.io/homepage.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
+
 
 ---
 <br/>
@@ -142,15 +143,15 @@ We plan to solicit short paper submissions for “deep learning critique” from
 # Organizers
 
 {% include feature_row id="organizers_row_first" %}
-</section>
 
-<!-- {% include feature_row id="organizers_row_second" %} -->
+{% include feature_row id="organizers_row_second" %}
 
-<!-- ## Student Organizer
+## Student Organizer
 
 {% include feature_row id="students" %}
 
- -->
+</section>
+
 
 <!-- # Tutorials
 
