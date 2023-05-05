@@ -7,14 +7,13 @@ layout: single
 classes: wide
 author_profile: false
 ---
-Will announce soon!
 
-<!--
+
 # speakers:
 
-#   - image_path: assets/images/jason_lee.jpeg
-#     alt: "Jason Lee"
-#     title: "Jason Lee"
+#   - image_path: assets/images/manuela.jpg
+#     alt: "Manuela M. Veloso"
+#     title: "Manuela M. Veloso"
 #     excerpt: |
 #         Princeton
 #         ### Provable Representation Learning
