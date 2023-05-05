@@ -7,7 +7,7 @@ layout: single
 classes: wide
 author_profile: false
 
-speakers:
+keynotespeakers:
   - image_path: assets/images/manuela.jpg
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
@@ -15,6 +15,7 @@ speakers:
     excerpt: |
          Head of J.P. Morgan AI Research & Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
 
+invitedspeakers:
   - image_path: assets/images/subbarao.png
     alt: "Subbarao Kambhampati"
     title: "Subbarao Kambhampati"
@@ -47,10 +48,18 @@ speakers:
 ---
 <br/>
 
+## Keynote Speakers
+
+<section class="invited-speakers">
+{% include feature_row id="keynotespeakers" type="left" %}
+</section>
+
+<br/>
+
 ## Invited Speakers
 
 <section class="invited-speakers">
-{% include feature_row id="speakers" type="left" %}
+{% include feature_row id="invitedspeakers" type="left" %}
 </section>
 
 
