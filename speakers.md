@@ -7,7 +7,6 @@ layout: single
 classes: wide
 author_profile: false
 
-
 speakers:
   - image_path: assets/images/manuela.jpg
     alt: "Manuela M. Veloso"
@@ -38,10 +37,12 @@ speakers:
 {% include feature_row id="speakers" type="left" %}
 </section>
 
+<br/>
 
-<!-- <section class="invited-speakers">
-{% include feature_row id="contributed" type="left" %}
-</section> -->
+<!-- # Contributed Speakers
 
+<section class="invited-speakers">
+{% include feature_row id="contributed" type="left" %} -->
+</section>
 
 
