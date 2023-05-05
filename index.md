@@ -7,11 +7,12 @@ layout: single
 classes: wide
 author_profile: false
 
+
 organizers_row_first:
   - image_path: assets/images/grace.jpg
     alt: "Guiling (Grace) Wang"
     title: "Guiling (Grace) Wang"
-    excerpt: "Distinguished Professor and Associate Dean for Research, New Jersey Institute of Technology”
+    excerpt: "New Jersey Institute of Technolog"
     url: "https://web.njit.edu/~gwang/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
@@ -30,12 +31,13 @@ organizers_row_first:
     url: "https://twitter.com/tuckerbalch?lang=en"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-sponsorship:
-  - image_path: assets/images/nec.png
-    alt: "NEC Laboratories America, Inc. (NEC Labs)"
-    title: "NEC Laboratories America, Inc. (NEC Labs)"
-<!--     excerpt: "New Jersey Institute of Technology" -->
-    url: "https://www.nec-labs.com"
+
+students:
+  - image_path: assets/images/jingyi.jpg
+    alt: "Jingyi Gu"
+    title: "Jingyi Gu"
+    excerpt: "New Jersey Institute of Technology"
+    url: "https://jingyigu.github.io/homepage.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
@@ -144,9 +146,9 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="organizers_row_second" %}
 
-## Sponsorship
+## Student Organizer
 
-{% include feature_row id="sponsorship" %}
+{% include feature_row id="students" %}
 
 </section>
 
