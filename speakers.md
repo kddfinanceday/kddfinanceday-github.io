@@ -15,6 +15,34 @@ speakers:
     excerpt: |
          Head of J.P. Morgan AI Research & Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
 
+  - image_path: assets/images/subbarao.png
+    alt: "Subbarao Kambhampati"
+    title: "Subbarao Kambhampati"
+    url: "https://rakaposhi.eas.asu.edu"
+    excerpt: |
+         Professor of Computer Science at Arizona State University
+
+  - image_path: assets/images/boan.jpg
+    alt: "Bo An"
+    title: "Bo An"
+    url: "https://personal.ntu.edu.sg/boan/"
+    excerpt: |
+         Professor and Assistant Chair (Innovation) at the School of Computer Science and Engineering of the Nanyang Technological University (NTU)
+
+  - image_path: assets/images/ron.jpeg
+    alt: "Ron Bekkerman"
+    title: "Ron Bekkerman"
+    url: "https://www.linkedin.com/in/bekkerman/"
+    excerpt: |
+         CTO of Cherre Inc.
+
+  - image_path: assets/images/isaac.jpeg
+    alt: "Isaac Tamblyn"
+    title: "Isaac Tamblyn"
+    url: "https://www.linkedin.com/in/itamblyn/"
+    excerpt: |
+         Machine Learning Manager at Cash App
+
 
 ---
 <br/>
