@@ -24,7 +24,6 @@ organizers_row_first:
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-    #&#128279
   - image_path: assets/images/daniel.jpeg
     alt: "Tucker Balch"
     title: "Tucker Balch"
@@ -32,7 +31,6 @@ organizers_row_first:
     url: "https://twitter.com/tuckerbalch?lang=en"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-    #&#128279
 <!-- students:
   - image_path: assets/images/jingyi.jpg
     alt: "Jingyi Gu"
