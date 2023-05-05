@@ -28,7 +28,7 @@ organizers_row_first:
     alt: "Tucker Balch"
     title: "Tucker Balch"
     excerpt: "Managing Director, J.P. Morgan AI Research, and Adjunct Professor, Georgia Institute of Technology"
-    url: "https://twitter.com/tuckerbalch?lang=en"
+    url: "https://www.linkedin.com/in/tuckerbalch/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
