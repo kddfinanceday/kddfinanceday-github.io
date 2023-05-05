@@ -12,7 +12,7 @@ organizers_row_first:
   - image_path: assets/images/grace.jpg
     alt: "Guiling (Grace) Wang"
     title: "Guiling (Grace) Wang"
-    excerpt: "New Jersey Institute of Technolog"
+    excerpt: "Distinguished Professor and Associate Dean for Research, New Jersey Institute of Technology"
     url: "https://web.njit.edu/~gwang/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
