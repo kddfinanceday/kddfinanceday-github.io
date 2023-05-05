@@ -30,7 +30,7 @@ organizers_row_first:
     url: "https://twitter.com/tuckerbalch?lang=en"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-Sponsorship:
+sponsorship:
   - image_path: assets/images/nec.png
     alt: "NEC Laboratories America, Inc. (NEC Labs)"
     title: "NEC Laboratories America, Inc. (NEC Labs)"
