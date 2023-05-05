@@ -17,15 +17,23 @@ organizers_row_first:
     btn_label: "Homepage"
     btn_class: "btn--primary"
     #&#128279
-  - image_path: assets/images/grace.jpg
+  - image_path: assets/images/daniel.jpeg
     alt: "Daniel Borrajo"
-    title: "Guiling (Grace) Wang"
-    excerpt: "Executive Director, J.P. Morgan AI Research, and Professor at Universidad Carlos III de Madrid, "
+    title: "Daniel Borrajo"
+    excerpt: "Executive Director, J.P. Morgan AI Research, and Professor at Universidad Carlos III de Madrid"
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
     #&#128279
-students:
+  - image_path: assets/images/daniel.jpeg
+    alt: "Tucker Balch"
+    title: "Tucker Balch"
+    excerpt: "Managing Director, J.P. Morgan AI Research, and Adjunct Professor, Georgia Institute of Technology"
+    url: "https://twitter.com/tuckerbalch?lang=en"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+    #&#128279
+<!-- students:
   - image_path: assets/images/jingyi.jpg
     alt: "Jingyi Gu"
     title: "Jingyi Gu"
@@ -33,7 +41,7 @@ students:
     url: "https://jingyigu.github.io/homepage.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-
+ -->
 ---
 <br/>
 # About
@@ -137,7 +145,7 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="organizers_row_first" %}
 
-{% include feature_row id="organizers_row_second" %}
+<!-- {% include feature_row id="organizers_row_second" %} -->
 
 <!-- ## Student Organizer
 
