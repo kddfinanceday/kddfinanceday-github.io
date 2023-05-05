@@ -11,6 +11,7 @@ speakers:
   - image_path: assets/images/manuela.jpg
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
+    url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
     excerpt: |
          Head of J.P. Morgan AI Research & Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
 
@@ -24,12 +25,5 @@ speakers:
 {% include feature_row id="speakers" type="left" %}
 </section>
 
-<!-- <br/>
-
-# Contributed Speakers
-
-<section class="invited-speakers">
-{% include feature_row id="contributed" type="left" %}
-</section> -->
 
 
