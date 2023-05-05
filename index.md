@@ -7,22 +7,35 @@ layout: single
 classes: wide
 author_profile: false
 
-
 organizers_row_first:
   - image_path: assets/images/grace.jpg
     alt: "Guiling (Grace) Wang"
     title: "Guiling (Grace) Wang"
-    excerpt: "New Jersey Institute of Technolog"
+    excerpt: "Distinguished Professor and Associate Dean for Research, New Jersey Institute of Technology”
     url: "https://web.njit.edu/~gwang/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
     #&#128279
-students:
-  - image_path: assets/images/jingyi.jpg
-    alt: "Jingyi Gu"
-    title: "Jingyi Gu"
-    excerpt: "New Jersey Institute of Technology"
-    url: "https://jingyigu.github.io/homepage.github.io/"
+  - image_path: assets/images/daniel.jpeg
+    alt: "Daniel Borrajo"
+    title: "Daniel Borrajo"
+    excerpt: "Executive Director, J.P. Morgan AI Research, and Professor at Universidad Carlos III de Madrid"
+    url: "http://www.plg.inf.uc3m.es/~dborrajo/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+  - image_path: assets/images/tucker.jpeg
+    alt: "Tucker Balch"
+    title: "Tucker Balch"
+    excerpt: "Managing Director, J.P. Morgan AI Research, and Adjunct Professor, Georgia Institute of Technology"
+    url: "https://twitter.com/tuckerbalch?lang=en"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+Sponsorship:
+  - image_path: assets/images/nec.png
+    alt: "NEC Laboratories America, Inc. (NEC Labs)"
+    title: "NEC Laboratories America, Inc. (NEC Labs)"
+<!--     excerpt: "New Jersey Institute of Technology" -->
+    url: "https://www.nec-labs.com"
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
@@ -131,9 +144,9 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="organizers_row_second" %}
 
-## Student Organizer
+## Sponsorship
 
-{% include feature_row id="students" %}
+{% include feature_row id="sponsorship" %}
 
 </section>
 
