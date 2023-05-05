@@ -24,7 +24,7 @@ organizers_row_first:
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  - image_path: assets/images/daniel.jpeg
+  - image_path: assets/images/tucker.jpeg
     alt: "Tucker Balch"
     title: "Tucker Balch"
     excerpt: "Managing Director, J.P. Morgan AI Research, and Adjunct Professor, Georgia Institute of Technology"
@@ -142,6 +142,7 @@ We plan to solicit short paper submissions for “deep learning critique” from
 # Organizers
 
 {% include feature_row id="organizers_row_first" %}
+</section>
 
 <!-- {% include feature_row id="organizers_row_second" %} -->
 
@@ -149,7 +150,7 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="students" %}
 
-</section> -->
+ -->
 
 <!-- # Tutorials
 
