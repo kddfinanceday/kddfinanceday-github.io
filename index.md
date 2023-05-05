@@ -12,8 +12,16 @@ organizers_row_first:
   - image_path: assets/images/grace.jpg
     alt: "Guiling (Grace) Wang"
     title: "Guiling (Grace) Wang"
-    excerpt: "New Jersey Institute of Technolog"
+    excerpt: "Distinguished Professor and Associate Dean for Research, New Jersey Institute of Technolog"
     url: "https://web.njit.edu/~gwang/"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+    #&#128279
+  - image_path: assets/images/grace.jpg
+    alt: "Daniel Borrajo"
+    title: "Guiling (Grace) Wang"
+    excerpt: "Executive Director, J.P. Morgan AI Research, and Professor at Universidad Carlos III de Madrid, "
+    url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
     #&#128279
@@ -131,11 +139,11 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 {% include feature_row id="organizers_row_second" %}
 
-## Student Organizer
+<!-- ## Student Organizer
 
 {% include feature_row id="students" %}
 
-</section>
+</section> -->
 
 <!-- # Tutorials
 
