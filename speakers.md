@@ -41,7 +41,7 @@ speakers:
     title: "Isaac Tamblyn"
     url: "https://www.linkedin.com/in/itamblyn/"
     excerpt: |
-         Machine Learning Manager at Cash App
+         Machine Learning Manager at Cash App, and Adjunct Professor at University of Ottawa
 
 
 ---
