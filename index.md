@@ -12,35 +12,21 @@ organizers_row_first:
   - image_path: assets/images/grace.jpg
     alt: "Guiling (Grace) Wang"
     title: "Guiling (Grace) Wang"
-    excerpt: "Distinguished Professor and Associate Dean for Research, New Jersey Institute of Technolog"
+    excerpt: "New Jersey Institute of Technolog"
     url: "https://web.njit.edu/~gwang/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
     #&#128279
-  - image_path: assets/images/daniel.jpeg
-    alt: "Daniel Borrajo"
-    title: "Daniel Borrajo"
-    excerpt: "Executive Director, J.P. Morgan AI Research, and Professor at Universidad Carlos III de Madrid"
-    url: "http://www.plg.inf.uc3m.es/~dborrajo/"
+students:
+  - image_path: assets/images/jingyi.jpg
+    alt: "Jingyi Gu"
+    title: "Jingyi Gu"
+    excerpt: "New Jersey Institute of Technology"
+    url: "https://jingyigu.github.io/homepage.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-  - image_path: assets/images/tucker.jpeg
-    alt: "Tucker Balch"
-    title: "Tucker Balch"
-    excerpt: "Managing Director, J.P. Morgan AI Research, and Adjunct Professor, Georgia Institute of Technology"
-    url: "https://twitter.com/tuckerbalch?lang=en"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-Sponsorship:
-  - image_path: assets/images/nec.png
-    alt: "NEC Laboratories America, Inc. (NEC Labs)"
-    title: "NEC Laboratories America, Inc. (NEC Labs)"
-<!--     excerpt: "New Jersey Institute of Technology" -->
-    url: "https://www.nec-labs.com"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
----
 
+---
 <br/>
 # About
 
@@ -90,14 +76,13 @@ organizers_row_second:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 students:
-  - image_path: assets/images/jingyi.jpg
-    alt: "Jingyi Gu"
-    title: "Jingyi Gu"
-    excerpt: "New Jersey Institute of Technology"
-    url: "https://jingyigu.github.io/homepage.github.io/"
+  - image_path: assets/images/harvineet.png
+    alt: "Harvineet Singh"
+    title: "Harvineet Singh"
+    excerpt: "New York University"
+    url: "https://harvineet.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-
 
 ---
 <br/>
@@ -152,7 +137,6 @@ We plan to solicit short paper submissions for “deep learning critique” from
 
 </section>
 
-
 <!-- # Tutorials
 
 {% include feature_row id="venue_row" %} -->
@@ -170,4 +154,3 @@ We plan to solicit short paper submissions for “deep learning critique” from
 {% endfor %}
 
 {% include paginator.html %} -->
-
