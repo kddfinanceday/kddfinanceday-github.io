@@ -33,14 +33,14 @@ organizers_row_first:
     btn_class: "btn--primary"
 
 students:
-  - image_path: assets/images/jingyi.jpg
-    alt: "Jingyi Gu"
-    title: "Jingyi Gu"
-    excerpt: "New Jersey Institute of Technology"
-    url: "https://jingyigu.github.io/homepage.github.io/"
+  - image_path: assets/images/nec.png
+    alt: "NEC Laboratories America, Inc. (NEC Labs)"
+    title: "NEC Laboratories America, Inc. (NEC Labs)"
+<!--     excerpt: "New Jersey Institute of Technology" -->
+    url: "https://www.nec-labs.com"
     btn_label: "Homepage"
     btn_class: "btn--primary"
-
+    
 ---
 <br/>
 # About
