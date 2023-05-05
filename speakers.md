@@ -9,12 +9,10 @@ author_profile: false
 
 speakers:
   - image_path: assets/images/manuela.jpg
-    alt: "Jason Lee"
-    title: "Jason Lee"
+    alt: "Manuela M. Veloso"
+    title: "Manuela M. Veloso"
     excerpt: |
-        Princeton
-        ### Provable Representation Learning
-        Deep representation learning seeks to learn a data representation that transfers to downstream tasks. In this talk, we study two forms of representation learning: supervised pre-training and self-supervised learning.
+         Head of J.P. Morgan AI Research & Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
 
 contributed:
   - image_path: assets/images/andrew_stolman.jpg
