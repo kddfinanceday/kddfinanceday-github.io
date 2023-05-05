@@ -13,8 +13,8 @@ speakers:
     title: "Manuela M. Veloso"
     excerpt: |
          Head of J.P. Morgan AI Research & Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
-         ### Provable Representation Learning
-         Deep representation learning seeks to learn a data representation that transfers to downstream tasks. In this talk, we study two forms of representation learning: supervised pre-training and self-supervised learning.
+<!--          ### Provable Representation Learning
+         Deep representation learning seeks to learn a data representation that transfers to downstream tasks. In this talk, we study two forms of representation learning: supervised pre-training and self-supervised learning. -->
          
 <!-- #         Supervised pre-training uses a large labeled source dataset to learn a representation, then trains a classifier on top of the representation. We prove that supervised pre-training can pool the data from all source tasks to learn a good representation which transfers to downstream tasks with few labeled examples. -->
 
@@ -37,12 +37,12 @@ speakers:
 {% include feature_row id="speakers" type="left" %}
 </section>
 
-<br/>
+<!-- <br/> -->
 
 <!-- # Contributed Speakers
 
 <section class="invited-speakers">
 {% include feature_row id="contributed" type="left" %} -->
-</section>
+<!-- </section> -->
 
 
