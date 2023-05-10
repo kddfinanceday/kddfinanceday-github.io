@@ -62,6 +62,13 @@ invitedspeakers:
 <section class="invited-speakers">
 {% include feature_row id="invitedspeakers" type="left" %}
 </section>
+---
+<br/>
+# Keynote Speakers
 
+<a id="Manuela M. Veloso"></a>
+## Manuela M. Veloso
+![](assets/images/manuela.jpg)
 
-
+> **Title:** Head of J.P. Morgan AI Research  \
+         Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
