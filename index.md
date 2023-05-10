@@ -20,14 +20,15 @@ organizers_row_first:
   - image_path: assets/images/daniel.jpeg
     alt: "Daniel Borrajo"
     title: "Daniel Borrajo"
-    excerpt: "Executive Director, J.P. Morgan AI Research, and Professor at Universidad Carlos III de Madrid"
+    excerpt: "Executive Director, J.P. Morgan AI Research"
+    excerpt: "Professor at Universidad Carlos III de Madrid"
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
   - image_path: assets/images/tucker.jpeg
     alt: "Tucker Balch"
     title: "Tucker Balch"
-    excerpt: "Managing Director, J.P. Morgan AI Research, and Adjunct Professor, Georgia Institute of Technology"
+    excerpt: "Managing Director, J.P. Morgan AI Research"
     url: "https://www.linkedin.com/in/tuckerbalch/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
