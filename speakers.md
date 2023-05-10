@@ -45,7 +45,7 @@ invitedspeakers:
     excerpt: |
          Machine Learning Manager at Cash App
 
-
+ 
 ---
 <br/>
 
