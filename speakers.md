@@ -15,7 +15,7 @@ keynotespeakers:
     excerpt: |
          Head of J.P. Morgan AI Research  \
          Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
-
+ 
 invitedspeakers:
   - image_path: assets/images/subbarao.png
     alt: "Subbarao Kambhampati"
