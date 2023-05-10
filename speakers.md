@@ -8,7 +8,7 @@ classes: wide
 author_profile: false
 
 keynotespeakers:
-  - image_path: assets/images/manuela.jpg
+  - image_path: assets/images/manuela.png
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
     url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
