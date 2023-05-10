@@ -13,7 +13,8 @@ keynotespeakers:
     title: "Manuela M. Veloso"
     url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
     excerpt: |
-         Head of J.P. Morgan AI Research & Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
+         Head of J.P. Morgan AI Research 
+         Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
 
 invitedspeakers:
   - image_path: assets/images/subbarao.png
@@ -42,7 +43,7 @@ invitedspeakers:
     title: "Isaac Tamblyn"
     url: "https://www.linkedin.com/in/itamblyn/"
     excerpt: |
-         Machine Learning Manager at Cash App, Adjunct Professor at University of Ottawa & University of Waterloo
+         Machine Learning Manager at Cash App
 
 
 ---
