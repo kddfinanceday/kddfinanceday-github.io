@@ -20,8 +20,11 @@ organizers_row_first:
   - image_path: assets/images/daniel.jpeg
     alt: "Daniel Borrajo"
     title: "Daniel Borrajo"
-    excerpt: "Executive Director, J.P. Morgan AI Research"
-    excerpt: "Professor at Universidad Carlos III de Madrid"
+    excerpt: |
+         Executive Director, J.P. Morgan AI Research
+         
+         Professor at Universidad Carlos III de Madrid
+         
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
