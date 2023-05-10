@@ -13,7 +13,7 @@ keynotespeakers:
     title: "Manuela M. Veloso"
     url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
     excerpt: |
-         Head of J.P. Morgan AI Research,  \
+         Head of J.P. Morgan AI Research  \
          Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
 
 invitedspeakers:
