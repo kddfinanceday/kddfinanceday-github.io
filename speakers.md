@@ -31,7 +31,7 @@ invitedspeakers:
     excerpt: |
          Professor and Assistant Chair (Innovation) at the School of Computer Science and Engineering of the Nanyang Technological University (NTU)
 
-  - image_path: assets/images/ron.jpg
+  - image_path: assets/images/ron.png
     alt: "Ron Bekkerman"
     title: "Ron Bekkerman"
     url: "https://www.linkedin.com/in/bekkerman/"
