@@ -38,7 +38,7 @@ invitedspeakers:
     excerpt: |
          CTO of Cherre Inc.
 
-  - image_path: assets/images/isaa.jpg
+  - image_path: assets/images/isaac.jpg
     alt: "Isaac Tamblyn"
     title: "Isaac Tamblyn"
     url: "https://www.linkedin.com/in/itamblyn/"
