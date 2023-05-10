@@ -48,8 +48,7 @@ sponsorship:
 <br/>
 # About
 
-
-KDD Finance Day 2023 will take place on **August, 2023**. On behalf of the Finance Day and KDD 2023 organizing committee, we welcome you all to attend this event!
+KDD Finance Day 2023 will take place on **August 7, 2023**. Welcome you all to attend this event!
 
 
 
