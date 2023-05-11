@@ -44,6 +44,21 @@ invitedspeakers:
     url: "https://www.linkedin.com/in/itamblyn/"
     excerpt: |
          Machine Learning Manager at Cash App
+         
+  - image_path: assets/images/jay.png
+    alt: "Jay Pujara"
+    title: "Jay Pujara"
+    url: "https://www.jauntslab.org"
+    excerpt: |
+         Director of the Center on Knowledge Graphs at University of Southern California
+         
+  - image_path: assets/images/zhen.jpg
+    alt: "Zhen Zeng"
+    title: "Zhen Zeng"
+    url: "https://www.linkedin.com/in/zhenzengzz/"
+    excerpt: |
+         AI Research Lead at J.P. Morgan AI Research
+    
 
  
 ---
