@@ -45,7 +45,7 @@ invitedspeakers:
     excerpt: |
          Machine Learning Manager at Cash App
          
-  - image_path: assets/images/jay.png
+  - image_path: assets/images/jay.jpg
     alt: "Jay Pujara"
     title: "Jay Pujara"
     url: "https://www.jauntslab.org"
