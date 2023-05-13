@@ -51,7 +51,7 @@ invitedspeakers:
     url: "https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/"
     excerpt: |
          Head of Applied Machine Learning Research for Investment Management at BlackRock
-  
+   
   - image_path: assets/images/jay.jpg
     alt: "Jay Pujara"
     title: "Jay Pujara"
