@@ -17,7 +17,7 @@ organizers_row_first:
     btn_label: "Homepage"
     btn_class: "btn--primary"
     #&#128279
-  - image_path: assets/images/daniel.jpeg
+  - image_path: assets/images/daniel.png
     alt: "Daniel Borrajo"
     title: "Daniel Borrajo"
     excerpt: |
