@@ -50,7 +50,13 @@ sponsorship:
 
 KDD Finance Day 2023 will take place on **August 7, 2023**. Welcome you all to attend this event!
 
+# News
 
+- May 2023: We are delighted to announce that Finance Day will offer two categories of travel awards: one for female attendees and another for students. Details regarding the application process will be provided soon.
+
+- Feb. 2023: We are thrilled to announce that Dr. Manuela M. Veloso has graciously accepted our invitation to be a keynote speaker.
+
+- Feb. 2023: We are extremely grateful to have received sponsorship from NEC Research.
 
 
 <!--
