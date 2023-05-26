@@ -68,9 +68,9 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://web.njit.edu/~gwang/"
       
-#     - label: "@achould"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/achould"
+    - label: "@hit"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://hits.sh/kddfinanceday.github.io.svg"
       
     # - label: "@baharanm"
     #   icon: "fab fa-fw fa-twitter-square"
