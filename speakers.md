@@ -15,7 +15,7 @@ keynotespeakers:
     excerpt: |
          Head of J.P. Morgan AI Research  \
          Herbert A. Simon University Professor, Carnegie Mellon University  \
-         NAE member, former AAAI President, Fellow of ACM, AAAI, IEEE, and AAAS
+         NAE member; Former President, AAAI; Fellow,  ACM, AAAI, IEEE, and AAAS 
 
 lunchtimespeaker:
   - image_path: assets/images/subbarao1.jpg
@@ -24,7 +24,7 @@ lunchtimespeaker:
     url: "https://rakaposhi.eas.asu.edu"
     excerpt: |
          Professor of Computer Science, Arizona State University  \
-         NAE member; Former President, AAAI; Fellow,  ACM, AAAI, IEEE, and AAAS 
+         Former AAAI President; Fellow, ACM, AAAI, AAAS 
 
  
 invitedspeakers:
