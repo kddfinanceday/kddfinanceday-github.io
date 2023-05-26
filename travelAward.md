@@ -24,6 +24,7 @@ Finance Day offers two categories of travel awards: Female Attendee Grants and S
 ## What to Submit
 1. Up-to-date CV
 2. A half-to-one page letter to state the purpose of attending KDD Finance Day. 
+
 We remind you that awarded applicants must register and attend the KDD conference.
 
 
@@ -37,6 +38,7 @@ We remind you that awarded applicants must register and attend the KDD conferenc
 1. Up-to-date CV
 2. A half-to-one page letter to state the purpose of attending KDD Finance Day. 
 3. A support letter from the student's advisor (optional) 
+
 We remind you that awarded applicants must register and attend the KDD conference.
 
 # Important Dates
