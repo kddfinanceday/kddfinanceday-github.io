@@ -14,29 +14,41 @@ keynotespeakers:
     url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
     excerpt: |
          Head of J.P. Morgan AI Research  \
-         Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
- 
-invitedspeakers:
-  - image_path: assets/images/subbarao.png
+         Herbert A. Simon University Professor, Carnegie Mellon University  \
+         NAE member, former AAAI President, Fellow of ACM, AAAI, IEEE, and AAAS
+
+lunchtimespeaker:
+  - image_path: assets/images/subbarao1.jpg
     alt: "Subbarao Kambhampati"
     title: "Subbarao Kambhampati"
     url: "https://rakaposhi.eas.asu.edu"
     excerpt: |
-         Professor of Computer Science at Arizona State University
+         Professor of Computer Science, Arizona State University  \
+         NAE member; Former President, AAAI; Fellow,  ACM, AAAI, IEEE, and AAAS 
+
+ 
+invitedspeakers:
+  - image_path: assets/images/dhagash.jpg
+    alt: "Dhagash Mehtaa"
+    title: "Dhagash Mehta"
+    url: "https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/"
+    excerpt: |
+         Head of Applied Machine Learning Research for Investment Management, BlackRock
 
   - image_path: assets/images/boan.jpg
-    alt: "Bo An"
-    title: "Bo An"
+    alt: "An Bo"
+    title: "An Bo"
     url: "https://personal.ntu.edu.sg/boan/"
     excerpt: |
-         Professor and Assistant Chair (Innovation) at the School of Computer Science and Engineering of the Nanyang Technological University (NTU)
+         President's Council Chair Professor, Nanyang Technological University, Singapore  \
+         Co-Director, Artificial Intelligence Research Institute         
 
   - image_path: assets/images/ron.png
     alt: "Ron Bekkerman"
     title: "Ron Bekkerman"
     url: "https://www.linkedin.com/in/bekkerman/"
     excerpt: |
-         CTO of Cherre Inc.
+         Strategic Advisor and former CTO, Cherre
 
   - image_path: assets/images/isaac.jpg
     alt: "Isaac Tamblyn"
@@ -45,13 +57,7 @@ invitedspeakers:
     excerpt: |
          Machine Learning Manager at Cash App
          
-  - image_path: assets/images/dhagash.jpg
-    alt: "Dhagash Mehtaa"
-    title: "Dhagash Mehta"
-    url: "https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/"
-    excerpt: |
-         Head of Applied Machine Learning Research for Investment Management at BlackRock
-   
+     
   - image_path: assets/images/jay.jpg
     alt: "Jay Pujara"
     title: "Jay Pujara"
@@ -71,13 +77,19 @@ invitedspeakers:
 ---
 <br/>
 
-## Keynote Speakers
+## Keynote Speaker
 
 <section class="invited-speakers">
 {% include feature_row id="keynotespeakers" type="left" %}
 </section>
 
-<br/>
+
+## Lunchtime Keynote Speaker
+
+<section class="lunchtime-keynote-speakers">
+{% include feature_row id="lunchtimespeakers" type="left" %}
+</section>
+
 
 ## Invited Speakers
 
