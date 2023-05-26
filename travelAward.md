@@ -42,8 +42,8 @@ We remind you that awarded applicants must register and attend the KDD conferenc
 We remind you that awarded applicants must register and attend the KDD conference.
 
 # Important Dates
-Application Deadline: June 26th, 2023
-Notification: July 1st, 2023
+- Application Deadline: June 26th, 2023
+- Notification: July 1st, 2023
 
 Please submit your application to [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/) with the mandatory title “KDD Finance Day Travel Award Application”. 
 
