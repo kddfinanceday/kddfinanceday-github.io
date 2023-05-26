@@ -17,7 +17,7 @@ Finance Day offers two categories of travel awards: Female Attendee Grants and S
 
 # Female Attendee Grants
 ## Applicant Eligibility
-1. Each applicant must be a female student or a female junior faculty members, located in the United States.
+1. Each applicant must be a female student or a female junior faculty member, located in the United States.
 2. The awardee is required to attend KDD Finance Day 2023.
 3. During the expense reimbursement stage, an awardee must provide proof of registration for KDD Finance Day 2023.
 
