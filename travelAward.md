@@ -19,7 +19,7 @@ Finance Day offers two categories of travel awards: Female Attendee Grants and S
 ## Applicant Eligibility
 1. Each applicant must be a female student or a female junior faculty members, located in the United States.
 2. The awardee is required to attend KDD Finance Day 2023.
-3. During the expense reimbursement stage, the student applicant must provide proof of registration for KDD Finance Day 2023. 
+3. During the expense reimbursement stage, an awardee must provide proof of registration for KDD Finance Day 2023.
 
 ## What to Submit
 1. Up-to-date CV
@@ -32,7 +32,8 @@ We remind you that awarded applicants must register and attend the KDD conferenc
 ## Applicant Eligibility
 1. Each applicant must be a student located in the United States.
 2. The awardee is required to attend the KDD Finance Day 2023.
-3. During the expense reimbursement stage, the student applicant must provide proof of registration for KDD Finance Day 2023. 
+3. During the expense reimbursement stage, an awardee must provide proof of registration for KDD Finance Day 2023.
+
 
 ## What to Submit
 1. Up-to-date CV
@@ -45,7 +46,7 @@ We remind you that awarded applicants must register and attend the KDD conferenc
 - Application Deadline: June 26th, 2023
 - Notification: July 1st, 2023
 
-Please submit your application to [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/) with the mandatory title “KDD Finance Day Travel Award Application”. 
+Please submit your application to Prof. Guiling (Grace) Wang at gwang@njit.edu with the mandatory title [KDD Finance Day Travel Award Application].
 
 
 # Important Notes
