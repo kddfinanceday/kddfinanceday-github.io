@@ -14,6 +14,8 @@ author_profile: false
 
 Finance Day offers two categories of travel awards: Female Attendee Grants and Student Grants. Each grant provides up to US$700. Priority for receiving the travel awards will be given to applicants who already have FinTech work.
 
+Please submit your application to Prof. Guiling (Grace) Wang at [gwang@njit.edu](mailto:gwang@njit.edu) with subject line [KDD Finance Day Travel Award Application].
+
 
 # Female Attendee Grants
 ## Applicant Eligibility
@@ -45,8 +47,6 @@ We remind you that awarded applicants must register and attend the KDD conferenc
 # Important Dates
 - Application Deadline: June 26th, 2023
 - Notification: July 1st, 2023
-
-Please submit your application to Prof. Guiling (Grace) Wang at gwang@njit.edu with subject line [KDD Finance Day Travel Award Application].
 
 
 # Important Notes
