@@ -7,80 +7,64 @@ layout: single
 classes: wide
 author_profile: false
 
-keynotespeakers:
-  - image_path: assets/images/manuela.png
-    alt: "Manuela M. Veloso"
-    title: "Manuela M. Veloso"
-    url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
-    excerpt: |
-         Head of J.P. Morgan AI Research  \
-         Herbert A. Simon University Professor in the School of Computer Science at Carnegie Mellon University
- 
-invitedspeakers:
-  - image_path: assets/images/subbarao.png
-    alt: "Subbarao Kambhampati"
-    title: "Subbarao Kambhampati"
-    url: "https://rakaposhi.eas.asu.edu"
-    excerpt: |
-         Professor of Computer Science at Arizona State University
 
-  - image_path: assets/images/boan.jpg
-    alt: "Bo An"
-    title: "Bo An"
-    url: "https://personal.ntu.edu.sg/boan/"
-    excerpt: |
-         Professor and Assistant Chair (Innovation) at the School of Computer Science and Engineering of the Nanyang Technological University (NTU)
-
-  - image_path: assets/images/ron.png
-    alt: "Ron Bekkerman"
-    title: "Ron Bekkerman"
-    url: "https://www.linkedin.com/in/bekkerman/"
-    excerpt: |
-         CTO of Cherre Inc.
-
-  - image_path: assets/images/isaac.jpg
-    alt: "Isaac Tamblyn"
-    title: "Isaac Tamblyn"
-    url: "https://www.linkedin.com/in/itamblyn/"
-    excerpt: |
-         Machine Learning Manager at Cash App
-         
-  - image_path: assets/images/dhagash.jpg
-    alt: "Dhagash Mehtaa"
-    title: "Dhagash Mehta"
-    url: "https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/"
-    excerpt: |
-         Head of Applied Machine Learning Research for Investment Management at BlackRock
-   
-  - image_path: assets/images/jay.jpg
-    alt: "Jay Pujara"
-    title: "Jay Pujara"
-    url: "https://www.jauntslab.org"
-    excerpt: |
-         Director of the Center on Knowledge Graphs at University of Southern California
-         
-  - image_path: assets/images/zhen.jpg
-    alt: "Zhen Zeng"
-    title: "Zhen Zeng"
-    url: "https://www.linkedin.com/in/zhenzengzz/"
-    excerpt: |
-         AI Research Lead at J.P. Morgan AI Research
-    
-
- 
 ---
 <br/>
 
-## Keynote Speakers
 
-<section class="invited-speakers">
-{% include feature_row id="keynotespeakers" type="left" %}
-</section>
+Finance Day offers two categories of travel awards: Female Attendee Grants and Student Grants. Each grant provides up to US$700. Priority for receiving the travel awards will be given to applicants who already have FinTech work.
 
-<br/>
 
-## Invited Speakers
+# Female Attendee Grants
+## Applicant Eligibility
+1. Each applicant must be a female student or a female junior faculty members, located in the United States.
+2. The awardee is required to attend KDD Finance Day 2023.
+3. During the expense reimbursement stage, the student applicant must provide proof of registration for KDD Finance Day 2023. 
 
-<section class="invited-speakers">
-{% include feature_row id="invitedspeakers" type="left" %}
-</section>
+## What to Submit
+1. Up-to-date CV
+2. A half-to-one page letter to state the purpose of attending KDD Finance Day. 
+We remind you that awarded applicants must register and attend the KDD conference.
+
+
+# Student Grant
+## Applicant Eligibility
+1. Each applicant must be a student located in the United States.
+2. The awardee is required to attend the KDD Finance Day 2023.
+3. During the expense reimbursement stage, the student applicant must provide proof of registration for KDD Finance Day 2023. 
+
+## What to Submit
+1. Up-to-date CV
+2. A half-to-one page letter to state the purpose of attending KDD Finance Day. 
+3. A support letter from the student's advisor (optional) 
+We remind you that awarded applicants must register and attend the KDD conference.
+
+# Important Dates
+Application Deadline: June 26th, 2023
+Notification: July 1st, 2023
+
+Please submit your application to [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/) with the mandatory title “KDD Finance Day Travel Award Application”. 
+
+
+# Important Notes
+Payment will only be made to grant recipients who submit an expense report with all the receipts within 15 days after KDD Finance Day. 
+
+<!--
+
+<!-- # Tutorials
+
+{% include feature_row id="venue_row" %} -->
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+
+<!-- {% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %} -->
