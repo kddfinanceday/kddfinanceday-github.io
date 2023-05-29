@@ -65,6 +65,13 @@ invitedspeakers:
     excerpt: |
          Director of the Center on Knowledge Graphs, University of Southern California
          
+  - image_path: assets/images/gregor.jpg
+    alt: "Gregor Schubert"
+    title: "Gregor Schubert"
+    url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/gregor-schubert"
+    excerpt: |
+         Assistant Professor of Finance, University of California, Los Angeles
+ 
   - image_path: assets/images/zhen.jpg
     alt: "Zhen Zeng"
     title: "Zhen Zeng"
