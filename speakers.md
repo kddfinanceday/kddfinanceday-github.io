@@ -107,7 +107,7 @@ invitedspeakers:
 ## Afternoon Keynote Speaker
 
 <section class="invited-speakers">
-{% include feature_row id="afternoonespeaker" type="left" %}
+{% include feature_row id="afternoonspeaker" type="left" %}
 </section>
 
 
