@@ -27,7 +27,7 @@ lunchtimespeaker:
          Former AAAI President; Fellow, ACM, AAAI, AAAS
 
 
-Afternoonspeaker:
+afternoonspeaker:
   - image_path: assets/images/susan.jpg
     alt: "Susan Athey"
     title: "Susan Athey"
