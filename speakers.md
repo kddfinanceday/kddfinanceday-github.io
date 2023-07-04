@@ -97,6 +97,7 @@ invitedspeakers:
 <section class="invited-speakers">
 {% include feature_row id="keynotespeakers" type="left" %}
 </section>
+
 ## Lunchtime Keynote Speaker
 
 <section class="invited-speakers">
