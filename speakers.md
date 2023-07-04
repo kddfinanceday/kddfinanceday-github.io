@@ -24,8 +24,16 @@ lunchtimespeaker:
     url: "https://rakaposhi.eas.asu.edu"
     excerpt: |
          Professor of Computer Science, Arizona State University  \
-         Former AAAI President; Fellow, ACM, AAAI, AAAS 
+         Former AAAI President; Fellow, ACM, AAAI, AAAS
 
+
+Afternoonspeaker:
+  - image_path: assets/images/susan.jpg
+    alt: "Susan Athey"
+    title: "Susan Athey"
+    url: "https://gsb-faculty.stanford.edu/susan-athey/"
+    excerpt: |
+         The Economics of Technology Professor, Stanford Graduate School of Business
  
 invitedspeakers:
   - image_path: assets/images/dhagash.jpg
