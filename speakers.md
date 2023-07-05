@@ -58,7 +58,7 @@ ron:
     excerpt: |
          Strategic Advisor and former CTO, Cherre
 isaac:
-  - image_path: assets/images_ori/isaac.jpg
+  - image_path: assets/images_ori/isaac.jpeg
     alt: "Isaac Tamblyn"
     title: "Isaac Tamblyn"
     url: "https://www.linkedin.com/in/itamblyn/"
