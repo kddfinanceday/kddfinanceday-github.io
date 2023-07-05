@@ -63,7 +63,7 @@ isaac:
     title: "Isaac Tamblyn"
     url: "https://www.linkedin.com/in/itamblyn/"
     excerpt: |
-         Machine Learning Manager Cash App
+         Machine Learning Manager, Cash App
          
 jay: 
   - image_path: assets/images/jay.jpg
