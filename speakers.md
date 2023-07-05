@@ -1,3 +1,4 @@
+
 ---
 title: Speakers
 # You don't need to edit this file, it's empty on purpose.
@@ -93,26 +94,13 @@ invitedspeakers:
 <br/>
 
 ## Keynote Speaker
-
-<section class="invited-speakers">
 {% include feature_row id="keynotespeakers" type="left" %}
-</section>
 
 ## Lunchtime Keynote Speaker
-
-<section class="invited-speakers">
 {% include feature_row id="lunchtimespeaker" type="left" %}
-</section>
 
 ## Afternoon Keynote Speaker
-
-<section class="invited-speakers">
 {% include feature_row id="afternoonspeaker" type="left" %}
-</section>
-
 
 ## Invited Speakers
-
-<section class="invited-speakers">
 {% include feature_row id="invitedspeakers" type="left" %}
-</section>
