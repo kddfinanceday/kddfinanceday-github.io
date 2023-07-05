@@ -35,14 +35,14 @@ afternoonspeaker:
     excerpt: |
          The Economics of Technology Professor, Stanford Graduate School of Business
  
-invitedspeakers:
+dhagash:
   - image_path: assets/images/dhagash.jpg
     alt: "Dhagash Mehtaa"
     title: "Dhagash Mehta"
     url: "https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/"
     excerpt: |
          Head of Applied Machine Learning Research for Investment Management, BlackRock
-
+an:
   - image_path: assets/images/boan.jpg
     alt: "An Bo"
     title: "An Bo"
@@ -91,7 +91,7 @@ invitedspeakers:
  
 ---
 <br/>
-<section class="invited-speakers" markdown="1">
+<section class="organizers" markdown="1">
 ## Keynote Speaker
 {% include feature_row id="keynotespeakers" type="left" %}
 
@@ -100,11 +100,9 @@ invitedspeakers:
 
 ## Afternoon Keynote Speaker
 {% include feature_row id="afternoonspeaker" type="left" %}
-</section>
-
-<section class="invited-speakers"> 
 
 ## Invited Speakers
-{% include feature_row id="invitedspeakers" type="left" %}
+{% include feature_row id="dhagash" type="left" %}
+{% include feature_row id="an" type="left" %}
 
 </section>
