@@ -92,16 +92,16 @@ zhen:
 ---
 <br/>
 <section class="organizers" markdown="1">
-## Keynote Speaker
+### Keynote Speaker
 {% include feature_row id="keynotespeakers" type="left" %}
 
-## Lunchtime Keynote Speaker
+### Lunchtime Keynote Speaker
 {% include feature_row id="lunchtimespeaker" type="left" %}
 
-## Afternoon Keynote Speaker
+### Afternoon Keynote Speaker
 {% include feature_row id="afternoonspeaker" type="left" %}
 
-## Invited Speakers
+### Invited Speakers
 {% include feature_row id="dhagash" type="left" %}
 {% include feature_row id="an" type="left" %}
 {% include feature_row id="ron" type="left" %}
