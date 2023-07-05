@@ -50,14 +50,14 @@ an:
     excerpt: |
          President's Council Chair Professor, Nanyang Technological University, Singapore  \
          Co-Director, Artificial Intelligence Research Institute         
-
+ron:
   - image_path: assets/images/ron.png
     alt: "Ron Bekkerman"
     title: "Ron Bekkerman"
     url: "https://www.linkedin.com/in/bekkerman/"
     excerpt: |
          Strategic Advisor and former CTO, Cherre
-
+isaac:
   - image_path: assets/images/isaac.jpg
     alt: "Isaac Tamblyn"
     title: "Isaac Tamblyn"
@@ -65,21 +65,21 @@ an:
     excerpt: |
          Machine Learning Manager, Cash App
          
-     
+jay: 
   - image_path: assets/images/jay.jpg
     alt: "Jay Pujara"
     title: "Jay Pujara"
     url: "https://www.jauntslab.org"
     excerpt: |
          Director of the Center on Knowledge Graphs, University of Southern California
-         
+gregor:         
   - image_path: assets/images/gregor.jpg
     alt: "Gregor Schubert"
     title: "Gregor Schubert"
     url: "https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/gregor-schubert"
     excerpt: |
          Assistant Professor of Finance, University of California, Los Angeles
- 
+zhen:
   - image_path: assets/images/zhen.jpg
     alt: "Zhen Zeng"
     title: "Zhen Zeng"
@@ -104,5 +104,11 @@ an:
 ## Invited Speakers
 {% include feature_row id="dhagash" type="left" %}
 {% include feature_row id="an" type="left" %}
+{% include feature_row id="ron" type="left" %}
+{% include feature_row id="isaac" type="left" %}
+{% include feature_row id="jay" type="left" %}
+{% include feature_row id="gregor" type="left" %}
+{% include feature_row id="zhen" type="left" %}
+
 
 </section>
