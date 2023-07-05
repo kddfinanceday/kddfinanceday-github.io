@@ -91,7 +91,7 @@ invitedspeakers:
  
 ---
 <br/>
-
+<section class="organizers" markdown="1">
 ## Keynote Speaker
 {% include feature_row id="keynotespeakers" type="left" %}
 
@@ -103,3 +103,5 @@ invitedspeakers:
 
 ## Invited Speakers
 {% include feature_row id="invitedspeakers" type="left" %}
+
+</section>
