@@ -8,7 +8,7 @@ classes: wide
 author_profile: false
 
 keynotespeakers:
-  - image_path: assets/images_ori/manuela.png
+  - image_path: assets/images_ori/manuela.jpeg
     alt: "Manuela M. Veloso"
     title: "Manuela M. Veloso"
     url: "https://en.wikipedia.org/wiki/Manuela_M._Veloso"
@@ -18,7 +18,7 @@ keynotespeakers:
          NAE member; Former President, AAAI; Fellow,  ACM, AAAI, IEEE, and AAAS 
 
 lunchtimespeaker:
-  - image_path: assets/images_ori/subbarao1.jpg
+  - image_path: assets/images_ori/subbarao.jpg
     alt: "Subbarao Kambhampati"
     title: "Subbarao Kambhampati"
     url: "https://rakaposhi.eas.asu.edu"
