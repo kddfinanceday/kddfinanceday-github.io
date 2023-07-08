@@ -33,8 +33,10 @@ afternoonspeaker:
     title: "Susan Athey"
     url: "https://gsb-faculty.stanford.edu/susan-athey/"
     excerpt: |
-         The Economics of Technology Professor, Stanford Graduate School of Business
- 
+         The Economics of Technology Professor, Stanford University  \
+         Senior fellow, Stanford Institute for Economic Policy Research  \
+         First female winner of the John Bates Clark Medal
+         
 dhagash:
   - image_path: assets/images/dhagash.jpg
     alt: "Dhagash Mehtaa"
