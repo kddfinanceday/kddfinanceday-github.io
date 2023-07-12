@@ -46,11 +46,11 @@ sponsorship:
     
 ---
 <br/>
-# About
+## About
 
 Join us at KDD Finance Day 2023 on August 7, 2023, in Long Beach, CA. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. Our esteemed lineup of speakers are from renowned institutions like Stanford and UCLA, along with industry leaders such as J.P.Morgan and Blackrock. Join us and contribute diverse perspectives to this engaging event!
 
-# News
+## News
 
 - July 2023: Dr. Susan Athey, renowned Economics of Technology Professor at Stanford University and first female winner of the John Bates Clark Medal, accepts keynote invitation.
 - June 2023: Congratulations to Finance Day travel award recipients: Brian Park@UCLA, Karen Dsouza@Purdue, and Carolyn Wang@NJIT.  
@@ -60,96 +60,8 @@ Join us at KDD Finance Day 2023 on August 7, 2023, in Long Beach, CA. This event
 - February 2023: Grateful for sponsorship received from NEC Research.
 
 
-<!--
-organizers_row_first:
-  - image_path: assets/images/alex_chouldechova.jpg
-    alt: "Alexandra Chouldechova"
-    title: "Alexandra Chouldechova"
-    excerpt: "Carnegie Mellon University"
-    url: "https://www.andrew.cmu.edu/user/achoulde/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-    #&#128279
-  - image_path: assets/images/hima.png
-    alt: "Himabindu Lakkaraju"
-    title: "Himabindu Lakkaraju"
-    excerpt: "Harvard University"
-    url: "https://himalakkaraju.github.io/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-  - image_path: assets/images/mani_srivastava.jpg
-    alt: "Mani Srivastava"
-    title: "Mani Srivastava"
-    excerpt: "UC Los Angeles"
-    url: "https://www.seas.ucla.edu/~mbs/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-organizers_row_second:
-  - image_path: assets/images/wei_wang.png
-    alt: "Wei Wang"
-    title: "Wei Wang"
-    excerpt: "UC Los Angeles"
-    url: "http://web.cs.ucla.edu/~weiwang/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-  - image_path: assets/images/yizhou_sun.jpg
-    alt: "Yizhou Sun"
-    title: "Yizhou Sun"
-    excerpt: "UC Los Angeles"
-    url: "http://web.cs.ucla.edu/~yzsun/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-students:
-  - image_path: assets/images/harvineet.png
-    alt: "Harvineet Singh"
-    title: "Harvineet Singh"
-    excerpt: "New York University"
-    url: "https://harvineet.github.io/"
-    btn_label: "Homepage"
-    btn_class: "btn--primary"
-
----
-<br/>
-# About
-
-Trustworthiness of AI is key to accelerating the acceptance and adoption of AI technologies, realizing all of its potential benefits to society. Recognizing its importance, KDD 2022 is organizing a special day event to present a holistic view of AI trustworthiness. 
-
-KDD Trustworthy AI Day 2022 will take place on **August 15, 2022, 8:30am-5:00pm EDT**. On behalf of the Trustworthy AI Day and KDD 2022 organizing committee, we welcome you all to attend this event!
-
-## To attend the event, please register for the [KDD 2022 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
-
--->
-<!-- #Call
-
-We plan to solicit short paper submissions for “deep learning critique” from the community, which aims to better understand and to improve all stages of the research process in deep learning. Accepted papers will be given a 15-min slot for contributed talk on the DL day. We invite you to refer to an earlier effort to register trends and debates, analyze bad practices and inventorize open problems at “Critiquing and Correcting Trends in Machine Learning 2018” Workshop: https://ml-critique-correct.github.io/.
-
-
-
-<section class="speakers" markdown="1">
-
-
-# Invited Speakers
-
-### Scaling Deep Learning
-
-{% include feature_row id="scaling_row" %}
-
-### Evaluating and Debugging Deep Learning Models
-
-{% include feature_row id="testing_row" %}
-
-### Fairness and Transparency of Deep Learning
-
-{% include feature_row id="fairness_row" %}
-
-### Theoretical Understanding of Deep Learning
-
-{% include feature_row id="theory_row" %}
-
-</section> -->
-
 <section class="organizers" markdown="1">
-# Organizers
+## Organizers
 
 {% include feature_row id="organizers_row_first" %}
 
