@@ -49,15 +49,13 @@ author_profile: false
     <td class="tg-73oq">12:00pm</td>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Lunch Time Keynote Speech</td>
-    <td class="tg-73oq">Subbarao Kambhampati (University of Arizona)
-      <br><br><i>Host: Grace Wang</i> </td> 
+    <td class="tg-73oq">Subbarao Kambhampati (University of Arizona)</td> 
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">1:30pm</td>
     <td class="tg-73oq">Agent based models of financial platforms for machine learning development</td>
-    <td class="tg-73oq">Isaac Tamblyn (Cash App)
-      <br><br><i>Host: Grace Wang</i> </td> 
+    <td class="tg-73oq">Isaac Tamblyn (Cash App) </td> 
   </tr>
   <tr>
     <td class="tg-73oq">1:30pm</td>
