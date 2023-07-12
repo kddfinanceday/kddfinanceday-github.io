@@ -26,10 +26,10 @@ author_profile: false
     </td>
   </tr>
   <tr>
-    <td class="tg-65px">10:15am</td>
-    <td class="tg-65px">10:45am</td>
-    <td class="tg-65px">Generative AI and Firm Values</td>
-    <td class="tg-65px">Gregor Schubert (UCLA) 
+    <td class="tg-73oq">10:15am</td>
+    <td class="tg-73oq">10:45am</td>
+    <td class="tg-73oq">Generative AI and Firm Values</td>
+    <td class="tg-73oq">Gregor Schubert (UCLA) 
       <br><br><i>Host: Grace Wang</i> </td>
   </tr>
   <tr>
@@ -47,17 +47,17 @@ author_profile: false
     <td class="tg-vwhn"></td>
   </tr>
   <tr>
-    <td class="tg-65px">12:00pm</td>
-    <td class="tg-65px">1:00pm</td>
-    <td class="tg-65px">Lunch Time Keynote Speech</td>
-    <td class="tg-65px">Subbarao Kambhampati (University of Arizona)
+    <td class="tg-73oq">12:00pm</td>
+    <td class="tg-73oq">1:00pm</td>
+    <td class="tg-73oq">Lunch Time Keynote Speech</td>
+    <td class="tg-73oq">Subbarao Kambhampati (University of Arizona)
       <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
-    <td class="tg-65px">1:00pm</td>
-    <td class="tg-65px">1:30pm</td>
-    <td class="tg-65px">Agent based models of financial platforms for machine learning development</td>
-    <td class="tg-65px">Isaac Tamblyn (Cash App)
+    <td class="tg-73oq">1:00pm</td>
+    <td class="tg-73oq">1:30pm</td>
+    <td class="tg-73oq">Agent based models of financial platforms for machine learning development</td>
+    <td class="tg-73oq">Isaac Tamblyn (Cash App)
       <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
