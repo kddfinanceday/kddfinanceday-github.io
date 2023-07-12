@@ -53,9 +53,7 @@ Join us at KDD Finance Day 2023 on August 7, 2023, in Long Beach, CA. This event
 # News
 
 - July 2023: Dr. Susan Athey, renowned Economics of Technology Professor at Stanford University and first female winner of the John Bates Clark Medal, accepts keynote invitation.
-  
-- June 2023: Congratulations to Finance Day travel award recipients: Brian Park@UCLA, Karen Dsouza@Purdue, and Carolyn Wang@NJIT.
-  
+- June 2023: Congratulations to Finance Day travel award recipients: Brian Park@UCLA, Karen Dsouza@Purdue, and Carolyn Wang@NJIT.  
 - May 2023: Travel awards available for Finance Day attendees. Details found [here](https://kddfinanceday.github.io/travelAward/).
 
 
