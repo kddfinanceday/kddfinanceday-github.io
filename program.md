@@ -6,124 +6,122 @@ title: Program
 layout: single
 classes: wide
 author_profile: false
----
-KDD Finance Day 2023 will take place on **August 7, 2023**. The detailed schedule will be released soon.
 
-
-<!--
----
-KDD Finance Day 2023 will take place on **August, 2023, 8:30am-5:00pm EDT**.  To attend the event, please register for the [KDD 2023 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
 
 <table class="tg">
 <tbody>
   <tr>
-    <th class="tg-feht">8:30am</th>
-    <th class="tg-feht">8:40am</th>
-    <th class="tg-feht">Opening Remarks</th>
-    <th class="tg-feht"></th>
+    <th class="tg-feht">9:00am</th>
+    <th class="tg-feht">9:15am</th>
+    <th class="tg-feht">Opening Remarks, commercial</th>
+    <th class="tg-feht">Daniel Borrajo (J.P.Morgan Chase) <br><br>
+      <i>Host: Daniel Borrajo</i></th>
   </tr>
   <tr>
-    <td class="tg-73oq">8:40am</td>
-    <td class="tg-73oq">9:40am</td>
-    <td class="tg-73oq">Keynote #1</td>
-    <td class="tg-73oq">
-      <a href="https://www.nist.gov/people/elham-tabassi">
-      Elham Tabassi</a> (NIST - Chief of Staff, Information Technology Laboratory)
-      <br>&nbsp;&nbsp;<em>Title: AI Risk Management</em> (<a href="#Elham_Tabassi">&#128279;</a>)
-      <br><br><i>Session Chair: Wei Wang (UCLA)</i>
+    <td class="tg-73oq">9:15am</td>
+    <td class="tg-73oq">10:15am</td>
+    <td class="tg-73oq">Morning Keynote Speech</td>
+    <td class="tg-73oq">Manuel Veloso (J.P.Morgan Chase/CMU)
+      <br><br><i>Host: Daniel Borrajo</i>
     </td>
   </tr>
   <tr>
-    <td class="tg-65px">9:30am</td>
-    <td class="tg-65px">10:00am</td>
-    <td class="tg-65px">Coffee Break</td>
-    <td class="tg-65px"></td>
+    <td class="tg-65px">10:15am</td>
+    <td class="tg-65px">10:45am</td>
+    <td class="tg-65px">Generative AI and Firm Values</td>
+    <td class="tg-65px">Gregor Schubert (UCLA) 
+      <br><br><i>Host: Grace Wang</i> </td>
   </tr>
   <tr>
-    <td class="tg-73oq">10:00am</td>
-    <td class="tg-73oq">11:05am</td>
-    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq">10:45am</td>
+    <td class="tg-73oq">11:15am</td>
+    <td class="tg-73oq">Reinforcement Learning for Quantitative Trading</td>
     <td class="tg-73oq">
-      <a href="https://www.nist.gov/people/brian-stanton">Brian Stanton</a> (NIST - Project Lead for AI User Trust)
-      <br>&nbsp;&nbsp;<em>Title: Trust and Perception of an AI System</em> (<a href="#Brian_Stanton">&#128279;</a>)
-      <br> <a href="https://www.linkedin.com/in/davidjamesmarcos/">David James Marcos</a> (Microsoft - Director, Governance & Enablement: Office of Responsible AI)
-      <br>&nbsp;&nbsp;<em>Title: Responsible AI: Building out Practical Governance</em> (<a href="#David_Marcos">&#128279;</a>)
-      <br> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma">Dinesh Verma</a> (IBM Research - CTO for Edge computing)
-      <br>&nbsp;&nbsp;<em>Title: Trusting the outcomes of AI models: Experiences from Applications of AI in IoT Solutions</em> (<a href="#Dinesh_Verma">&#128279;</a>)
-      <br> <a href="https://www.cs.memphis.edu/~santosh/">Santosh Kumar</a> (U. Memphis - Director, NIH NIBIB mHealth Center 
-      <br>for Discovery, Optimization, and Translation of Temporally-Precise Interventions)
-      <br>&nbsp;&nbsp;<em>Title: Challenges and Opportunities in Trustworthy AI for Health and Wellness</em> (<a href="#Santosh_Kumar">&#128279;</a>)
-      <br><br><i>Session Chair: Yizhou Sun (UCLA)</i></td>
-    <td class="tg-73oq"></td>
+      An Bo (Nanyang Technological University, Singapore)
+      <br><br><i>Host: Grace Wang</i> </td>
   </tr>
   <tr>
-    <td class="tg-vwhn">11:05pm</td>
+    <td class="tg-vwhn">11:15pm</td>
     <td class="tg-vwhn">12:00pm</td>
-    <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: Elham Tabassi, Brian Stanton, David James Marcos, Dinesh Verma, Santosh Kumar<br><br><i>Panel Moderator: Mani Srivastava (UCLA)</i></td>
+    <td class="tg-vwhn">Lunch break and networking session (Lunch boxes will be provided to Finance Day Attendees)</td>
+    <td class="tg-vwhn"></i></td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
     <td class="tg-65px">1:00pm</td>
-    <td class="tg-65px">Lunch</td>
+    <td class="tg-65px">Lunch Time Keynote Speech</td>
+    <td class="tg-65px">Subbarao Kambhampati (University of Arizona)
+      <br><br><i>Host: Grace Wang</i> </td> 
+  </tr>
+  <tr>
+    <td class="tg-65px">1:00pm</td>
+    <td class="tg-65px">1:30pm</td>
+    <td class="tg-65px">Agent based models of financial platforms for machine learning development</td>
+    <td class="tg-65px">Isaac Tamblyn (Cash App)
+      <br><br><i>Host: Grace Wang</i> </td> 
+  </tr>
+  <tr>
+    <td class="tg-73oq">1:30pm</td>
+    <td class="tg-73oq">2:00pm</td>
+    <td class="tg-73oq">Visual Perspectives on Finance Time Series</td>
+    <td class="tg-73oq">Zhen Zeng (J.P.Morgan Chase)
+      <br><br><i>Host: Grace Wang</i> </td> 
+  </tr>
+  <tr>
+    <td class="tg-65px">2:00pm</td>
+    <td class="tg-65px">2:15pm</td>
+    <td class="tg-65px">Coffee break and networking session</td>
     <td class="tg-65px"></td>
   </tr>
   <tr>
-    <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">Keynote #2</td>
+    <td class="tg-73oq">2:15pm</td>
+    <td class="tg-73oq">3:15pm</td>
+    <td class="tg-73oq">Afternoon Keynote Speech</td>
     <td class="tg-73oq">
-      <a href="https://www.james-zou.com/">James Zou</a> (Stanford University)
-      <br>&nbsp;&nbsp;<em>Title: Debugging and editing AI models using natural language</em> (<a href="#James_Zou">&#128279;</a>)
-      <br><br><i>Session Chair: Mani Srivastava (UCLA)</i></td>
+      Susan Athey (Stanford University)
+      <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
-    <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">3:00pm</td>
-    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq">3:15pm</td>
+    <td class="tg-73oq">3:45pm</td>
+    <td class="tg-73oq">The Data Science Perspective on Real Estate Investments</td>
     <td class="tg-73oq">
-      <a href="http://qveraliao.com/">Q. Vera Liao</a> (Microsoft Research Montréal)
-      <br>&nbsp;&nbsp;<em>Title: From trustworthy AI to appropriate trust: lessons from human-centered explainable AI</em> (<a href="#Vera_Liao">&#128279;</a>)
-      <br> <a href="https://www.jiaqima.com/">Jiaqi Ma</a> (Harvard University)
-      <br>&nbsp;&nbsp;<em>Title: The Unique Challenges in Trustworthy Graph Machine Learning</em> (<a href="#Jiaqi_Ma">&#128279;</a>)
-      <br> <a href="http://jpdickerson.com/">John P. Dickerson</a> (University of Maryland)
-      <br>&nbsp;&nbsp;<em>Title: On the Responsible Use of Machine Learning in Market Design</em> (<a href="#John_Dickerson">&#128279;</a>)
-      <br><br><i>Session Chair: Wei Wang (UCLA)</i></td>
+      Ron Bekkerman (Cherr)      
+      <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
-    <td class="tg-65px">3:00pm</td>
-    <td class="tg-65px">3:30pm</td>
-    <td class="tg-65px">Coffee Break</td>
-    <td class="tg-65px"></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">3:30pm</td>
-    <td class="tg-73oq">4:10pm</td>
-    <td class="tg-73oq">Invited Talks</td>
+    <td class="tg-73oq">3:45pm</td>
+    <td class="tg-73oq">4:15pm</td>
+    <td class="tg-73oq">Similarity Learning in Finance</td>
     <td class="tg-73oq">
-      <a href="https://iddp.gwu.edu/susan-ariel-aaronson">Susan Aaronson</a> (George Washington University)
-      <br>&nbsp;&nbsp;<em>Title: Our Data Driven Future Needs a Rethink: Data Governance Ain't Working</em> (<a href="#Susan_Aaronson">&#128279;</a>)
-      <br> <a href="https://www.karen-levy.net/">Karen Levy</a> (Cornell University)
-      <br>&nbsp;&nbsp;<em>Title: AI and Data Governance</em> (<a href="#Karen_Levy">&#128279;</a>)
-      <br> <a href="https://annewashington.com/">Anne Washington</a> (New York University)
-      <br>&nbsp;&nbsp;<em>Title: KDD in the public interest</em> (<a href="#Anne_Washington">&#128279;</a>)
-      <br><br><i>Session Chair: Yizhou Sun (UCLA)</i></td>
+      Dhagash Mehta (BlackRock)
+      <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
-    <td class="tg-vwhn">4:10pm</td>
-    <td class="tg-vwhn">5:00pm</td>
-    <td class="tg-vwhn">Panel Discussion</td>
-    <td class="tg-vwhn">Panelists: James Zou, Jiaqi Ma, John P. Dickerson,<br>Susan Aaronson, Karen Levy, Anne Washington<br><br><i>Panel Moderator: David James Marcos (Microsoft)</i>
-    </td>
+    <td class="tg-73oq">4:15pm</td>
+    <td class="tg-73oq">4:45pm</td>
+    <td class="tg-73oq">Similarity Learning in Finance</td>
+    <td class="tg-73oq">
+      Jay Pujara (USC)
+      <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
+    <td class="tg-feht">4:45pm</td>
     <td class="tg-feht">5:00pm</td>
-    <td class="tg-feht"></td>
-    <td class="tg-feht">Closing Remarks</td>
-    <td class="tg-feht"></td>
+    <td class="tg-feht">Closing remarks</td>
+    <td class="tg-feht">Tucker Balch (J.P.Morgan Chase)
+      <br><br><i>Host: Tucker Balch</i> </td> 
   </tr>
 </tbody>
 </table>
+
+<!---
+KDD Finance Day 2023 will take place on **August 7, 2023**. The detailed schedule will be released soon.
+
+
+---
+KDD Finance Day 2023 will take place on **August, 2023, 8:30am-5:00pm EDT**.  To attend the event, please register for the [KDD 2023 Conference](https://www.kdd.org/kdd2022/registration.html). You can register using the one "One-Day Conference" option if you only want to attend the _Trustworthy AI Day_.
+
 
 <br />
 <br />
