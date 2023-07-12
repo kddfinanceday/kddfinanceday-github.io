@@ -44,7 +44,7 @@ author_profile: false
     <td class="tg-vwhn">11:15pm</td>
     <td class="tg-vwhn">12:00pm</td>
     <td class="tg-vwhn">Lunch break and networking session (Lunch boxes will be provided to Finance Day Attendees)</td>
-    <td class="tg-vwhn"></i></td>
+    <td class="tg-vwhn"></td>
   </tr>
   <tr>
     <td class="tg-65px">12:00pm</td>
