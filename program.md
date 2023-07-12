@@ -11,7 +11,7 @@ author_profile: false
 <table class="tg">
 <tbody>
   <tr>
-    <th class="tg-feht">9:00am</th>
+    <th class="tg-feht"><font size= “3”>9:00am_<font></th>
     <th class="tg-feht">9:15am</th>
     <th class="tg-feht">Opening Remarks, commercial</th>
     <th class="tg-feht"></th>
@@ -95,7 +95,7 @@ author_profile: false
   <tr>
     <td class="tg-73oq">4:15pm</td>
     <td class="tg-73oq">4:45pm</td>
-    <td class="tg-73oq">Similarity Learning in Finance</td>
+    <td class="tg-73oq">TBA</td>
     <td class="tg-73oq">
       Jay Pujara (USC)
       <br><br><i>Host: Grace Wang</i> </td> 
