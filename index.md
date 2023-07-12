@@ -52,11 +52,18 @@ KDD Finance Day 2023 will take place on **August 7, 2023**, at Long Beach, CA. W
 
 # News
 
-- May 2023: We are delighted to announce that Finance Day will offer two categories of travel awards: one for female attendees and another for students. Details regarding the application process can be found [here](https://kddfinanceday.github.io/travelAward/).
+- July 2023: Dr. Susan Athey, renowned Economics of Technology Professor at Stanford University and first female winner of the John Bates Clark Medal, accepts keynote invitation.
+  
+- June 2023: Congratulations to Finance Day travel award recipients: Brian Park@UCLA, Karen Dsouza@Purdue, and Carolyn Wang@NJIT.
+  
+- May 2023: Travel awards available for Finance Day attendees. Details found [here](https://kddfinanceday.github.io/travelAward/).
 
-- Feb. 2023: We are thrilled to announce that Dr. Manuela M. Veloso has graciously accepted our invitation to be a keynote speaker.
 
-- Feb. 2023: We are extremely grateful to have received sponsorship from NEC Research.
+- April 2023: Dr. Subbarao Kambhampati, ASU Professor, former AAAI president, and Fellow of ACM, IEEE, AAAI, and AAAS, will deliver lunchtime keynote speech.
+
+- February 2023: Dr. Manuela M. Veloso, Head of J.P.Morgan AI Research and esteemed member of NAE, accepts keynote speaker invitation.
+  
+- February 2023: Grateful for sponsorship received from NEC Research.
 
 
 <!--
