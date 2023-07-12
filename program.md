@@ -14,7 +14,7 @@ author_profile: false
     <th class="tg-feht">9:00am</th>
     <th class="tg-feht">9:15am</th>
     <th class="tg-feht">Opening Remarks, commercial</th>
-    <th class="tg-feht">Daniel Borrajo (J.P.Morgan Chase) <br><br>
+    <th class="tg-feht"><br><br>
       <i>Host: Daniel Borrajo</i></th>
   </tr>
   <tr>
@@ -37,13 +37,13 @@ author_profile: false
     <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq">Reinforcement Learning for Quantitative Trading</td>
     <td class="tg-73oq">
-      An Bo (Nanyang Technological University, Singapore)
-      <br><br><i>Host: Grace Wang</i> </td>
+      An Bo (Nanyang Technological University, Singapore)</td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:15pm</td>
     <td class="tg-vwhn">12:00pm</td>
-    <td class="tg-vwhn">Lunch break and networking session (Lunch boxes will be provided to Finance Day Attendees)</td>
+    <td class="tg-vwhn">Lunch break and networking session 
+      <br><br>Lunch boxes will be provided to Finance Day Attendees)</td>
     <td class="tg-vwhn"></td>
   </tr>
   <tr>
@@ -78,24 +78,21 @@ author_profile: false
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">Afternoon Keynote Speech</td>
     <td class="tg-73oq">
-      Susan Athey (Stanford University)
-      <br><br><i>Host: Grace Wang</i> </td> 
+      Susan Athey (Stanford University) </td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">3:45pm</td>
     <td class="tg-73oq">The Data Science Perspective on Real Estate Investments</td>
     <td class="tg-73oq">
-      Ron Bekkerman (Cherr)      
-      <br><br><i>Host: Grace Wang</i> </td> 
+      Ron Bekkerman (Cherr)       </td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:45pm</td>
     <td class="tg-73oq">4:15pm</td>
     <td class="tg-73oq">Similarity Learning in Finance</td>
     <td class="tg-73oq">
-      Dhagash Mehta (BlackRock)
-      <br><br><i>Host: Grace Wang</i> </td> 
+      Dhagash Mehta (BlackRock)</td> 
   </tr>
   <tr>
     <td class="tg-73oq">4:15pm</td>
@@ -109,8 +106,7 @@ author_profile: false
     <td class="tg-feht">4:45pm</td>
     <td class="tg-feht">5:00pm</td>
     <td class="tg-feht">Closing remarks</td>
-    <td class="tg-feht">Tucker Balch (J.P.Morgan Chase)
-      <br><br><i>Host: Tucker Balch</i> </td> 
+    <td class="tg-feht"></td> 
   </tr>
 </tbody>
 </table>
