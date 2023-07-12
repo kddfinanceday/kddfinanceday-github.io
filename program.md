@@ -29,14 +29,15 @@ author_profile: false
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">Generative AI and Firm Values</td>
     <td class="tg-73oq">Gregor Schubert (UCLA) 
-      <br><br><i>Host: Grace Wang</i> </td>
+      </td>
   </tr>
   <tr>
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq">Reinforcement Learning for Quantitative Trading</td>
     <td class="tg-73oq">
-      An Bo (Nanyang Technological University, Singapore)</td>
+      An Bo (Nanyang Technological University, Singapore)
+    <br><br><i>Host: Grace Wang</i> </td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:15pm</td>
