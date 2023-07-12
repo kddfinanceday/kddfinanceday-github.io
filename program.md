@@ -14,8 +14,7 @@ author_profile: false
     <th class="tg-feht">9:00am</th>
     <th class="tg-feht">9:15am</th>
     <th class="tg-feht">Opening Remarks, commercial</th>
-    <th class="tg-feht"><br><br>
-      <i>Host: Daniel Borrajo</i></th>
+    <th class="tg-feht"></th>
   </tr>
   <tr>
     <td class="tg-73oq">9:15am</td>
@@ -43,7 +42,7 @@ author_profile: false
     <td class="tg-vwhn">11:15pm</td>
     <td class="tg-vwhn">12:00pm</td>
     <td class="tg-vwhn">Lunch break and networking session 
-      <br><br>Lunch boxes will be provided to Finance Day Attendees)</td>
+      <br>Lunch boxes will be provided to Finance Day Attendees)</td>
     <td class="tg-vwhn"></td>
   </tr>
   <tr>
