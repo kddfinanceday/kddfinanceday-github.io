@@ -11,7 +11,7 @@ author_profile: false
 <table class="tg">
 <tbody>
   <tr>
-    <th class="tg-feht"><font size= “3”>9:00am_<font></th>
+    <th class="tg-feht"><font size= “5”>9:00am_<font></th>
     <th class="tg-feht">9:15am</th>
     <th class="tg-feht">Opening Remarks, commercial</th>
     <th class="tg-feht"></th>
