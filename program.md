@@ -49,7 +49,7 @@ author_profile: false
   <tr>
     <td class="tg-73oq">12:00pm</td>
     <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">Lunch Time Keynote Speech</td>
+    <td class="tg-73oq">LLMs can't plan--But they can help you in Planning</td>
     <td class="tg-73oq">Subbarao Kambhampati (University of Arizona)</td> 
   </tr>
   <tr>
