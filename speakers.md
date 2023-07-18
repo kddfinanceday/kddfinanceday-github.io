@@ -68,7 +68,7 @@ isaac:
          Machine Learning Manager, Cash App
          
 jay: 
-  - image_path: assets/images/jay.jpg
+  - image_path: assets/images/jay_pujara.jpg
     alt: "Jay Pujara"
     title: "Jay Pujara"
     url: "https://www.jauntslab.org"
