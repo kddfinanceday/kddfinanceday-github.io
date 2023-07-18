@@ -49,7 +49,8 @@ author_profile: false
   <tr>
     <td class="tg-73oq">12:00pm</td>
     <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">LLMs can't plan--But they can help you in Planning</td>
+    <td class="tg-73oq">Lunchtime keynote speech: 
+      <br>LLMs can't plan--But they can help you in Planning</td>
     <td class="tg-73oq">Subbarao Kambhampati (University of Arizona)</td> 
   </tr>
   <tr>
@@ -95,7 +96,7 @@ author_profile: false
   <tr>
     <td class="tg-73oq">4:15pm</td>
     <td class="tg-73oq">4:45pm</td>
-    <td class="tg-73oq">TBA</td>
+    <td class="tg-73oq">Using Structured Knowledge for Better Modeling of Financial Data</td>
     <td class="tg-73oq">
       Jay Pujara (USC)
       <br><br><i>Host: Grace Wang</i> </td> 
