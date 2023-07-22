@@ -51,7 +51,7 @@ author_profile: false
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Lunchtime keynote speech: 
       <br>LLMs can't plan--But they can help you in Planning</td>
-    <td class="tg-73oq">Subbarao Kambhampati (University of Arizona)</td> 
+    <td class="tg-73oq">Subbarao Kambhampati (Arizona State University)</td> 
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
