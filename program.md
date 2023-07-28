@@ -106,8 +106,8 @@ author_profile: false
   <tr>
     <td class="tg-feht">4:45pm</td>
     <td class="tg-feht">5:00pm</td>
-    <td class="tg-feht">Closing remarks</td>
-    <td class="tg-feht"></td> 
+    <td class="tg-feht">Closing Remarks</td>
+    <td class="tg-feht">Grace Wang (NJIT)</td> 
   </tr>
 </tbody>
 </table>
