@@ -91,16 +91,16 @@ author_profile: false
   <tr>
     <td class="tg-73oq">3:45pm</td>
     <td class="tg-73oq">4:15pm</td>
-    <td class="tg-73oq">Similarity Learning in Finance</td>
-    <td class="tg-73oq">
-      Dhagash Mehta (BlackRock)</td> 
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">Dhagash Mehta (BlackRock)
+      <br>&nbsp;&nbsp;<em>Title:Similarity Learning in Finance</em></td>
   </tr>
   <tr>
     <td class="tg-73oq">4:15pm</td>
     <td class="tg-73oq">4:45pm</td>
-    <td class="tg-73oq">Using Structured Knowledge for Better Modeling of Financial Data</td>
-    <td class="tg-73oq">
-      Jay Pujara (USC)
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">Jay Pujara (USC)
+      <br>&nbsp;&nbsp;<em>Title: Using Structured Knowledge for Better Modeling of Financial Data</em>
       <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
