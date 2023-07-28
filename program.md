@@ -105,8 +105,8 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in r
     <td class="tg-73oq">9:15am</td>
     <td class="tg-73oq">10:15am</td>
     <td class="tg-73oq">Morning Keynote</td>
-    <td class="tg-73oq">Manuel Veloso (J.P.Morgan Chase/CMU)
-      <br>&nbsp;&nbsp;<em>Title: Human-AI Interaction in Finance: A Learning Journey</em> 
+    <td class="tg-73oq"><b>Manuel Veloso (J.P.Morgan Chase/CMU)</b>
+      <br>&nbsp;&nbsp;<em><b>Title: Human-AI Interaction in Finance: A Learning Journey</b></em> 
       <br><br><i>Host: Daniel Borrajo</i>
     </td>
   </tr>
