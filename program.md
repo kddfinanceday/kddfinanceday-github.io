@@ -135,8 +135,8 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in r
     <td class="tg-73oq">12:00pm</td>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Lunchtime Keynote</td>
-    <td class="tg-73oq">Subbarao Kambhampati (Arizona State University)
-      <br>&nbsp;&nbsp;<em>Title: LLMs can't plan--But they can help you in Planning</em></td>
+    <td class="tg-73oq"><b>Subbarao Kambhampati (Arizona State University)</b>
+      <br>&nbsp;&nbsp;<em><b>Title: LLMs can't plan--But they can help you in Planning</b></em></td>
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
@@ -163,8 +163,8 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in r
     <td class="tg-73oq">2:15pm</td>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">Afternoon Keynote</td>
-    <td class="tg-73oq">Susan Athey (Stanford University) 
-       <br>&nbsp;&nbsp;<em>Title: Foundation Models for Economic Data: Applications to Modeling Career Trajectories</em></td> 
+    <td class="tg-73oq"><b>Susan Athey (Stanford University)</b>
+       <br>&nbsp;&nbsp;<em><b>Title: Foundation Models for Economic Data: Applications to Modeling Career Trajectories</b></em></td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
@@ -190,7 +190,7 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in r
   </tr>
   <tr>
     <td class="tg-feht">4:45pm</td>
-    <td class="tg-feht">5:00pm</td>
+    <td class="tg-feht"></td>
     <td class="tg-feht">Closing Remarks</td>
     <td class="tg-feht">Grace Wang (NJIT)</td> 
   </tr>
