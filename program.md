@@ -7,6 +7,9 @@ layout: single
 classes: wide
 author_profile: false
 ---
+KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in room Grand A in the Long Beach Convention & Entertainment Center.
+
+Join us at KDD Finance Day 2023 on August 7, 2023, in Long Beach, CA. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. Our esteemed lineup of speakers are from renowned institutions like Stanford and UCLA, along with industry leaders such as J.P.Morgan and Blackrock. Join us and contribute diverse perspectives to this engaging event! We will be in Room **Grand A**.
 
 <table class="tg">
 <tbody>
@@ -49,7 +52,7 @@ author_profile: false
   <tr>
     <td class="tg-73oq">12:00pm</td>
     <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">Lunch Time Keynote Speech</td>
+    <td class="tg-73oq">Lunchtime Keynote</td>
     <td class="tg-73oq">Subbarao Kambhampati (Arizona State University)
       <br>&nbsp;&nbsp;<em>Title: LLMs can't plan--But they can help you in Planning</em></td>
   </tr>
@@ -77,7 +80,7 @@ author_profile: false
   <tr>
     <td class="tg-73oq">2:15pm</td>
     <td class="tg-73oq">3:15pm</td>
-    <td class="tg-73oq">Afternoon Keynote Speech</td>
+    <td class="tg-73oq">Afternoon Keynote</td>
     <td class="tg-73oq">Susan Athey (Stanford University) 
        <br>&nbsp;&nbsp;<em>Title: Foundation Models for Economic Data: Applications to Modeling Career Trajectories</em></td> 
   </tr>
