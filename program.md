@@ -100,7 +100,7 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <th class="tg-feht">9:00am</th>
     <th class="tg-feht">9:15am</th>
     <th class="tg-feht">Opening Remarks</th>
-    <th class="tg-feht">Daniel Borrajo/Tucker Balch (J.P.Morgan Chase)</th>
+    <th class="tg-feht"><a href="http://www.plg.inf.uc3m.es/~dborrajo/">Daniel Borrajo</a>/<a href="https://www.linkedin.com/in/tuckerbalch/">Tucker Balch</a> (J.P.Morgan Chase)</th>
   </tr>
   <tr>
     <td class="tg-73oq">9:15am</td>
@@ -176,7 +176,7 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <td class="tg-feht">4:45pm</td>
     <td class="tg-feht"></td>
     <td class="tg-feht">Closing Remarks</td>
-    <td class="tg-feht">Grace Wang (NJIT)</td> 
+    <td class="tg-feht"><a href="https://web.njit.edu/~gwang/">Grace Wang</a> (NJIT)</td> 
   </tr>
 </tbody>
 </table>
