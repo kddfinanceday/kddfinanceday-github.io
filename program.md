@@ -71,15 +71,15 @@ author_profile: false
   <tr>
     <td class="tg-65px">2:00pm</td>
     <td class="tg-65px">2:15pm</td>
-    <td class="tg-65px">Coffee break and networking session</td>
+    <td class="tg-65px">Break and networking</td>
     <td class="tg-65px"></td>
   </tr>
   <tr>
     <td class="tg-73oq">2:15pm</td>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">Afternoon Keynote Speech</td>
-    <td class="tg-73oq">
-      Susan Athey (Stanford University) </td> 
+    <td class="tg-73oq">Susan Athey (Stanford University) 
+       <br>&nbsp;&nbsp;<em>Foundation Models for Economic Data: Applications to Modeling Career Trajectories</td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
