@@ -37,8 +37,8 @@ author_profile: false
     <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">An Bo (Nanyang Technological University, Singapore)
-      <br>&nbsp;&nbsp;<em>Title: Reinforcement Learning for Quantitative Trading</em><br>
-      <br><i>Host: Grace Wang</i> </td>
+      <br>&nbsp;&nbsp;<em>Title: Reinforcement Learning for Quantitative Trading</em>
+      <br><br><i>Host: Grace Wang</i> </td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:15pm</td>
@@ -57,14 +57,15 @@ author_profile: false
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">1:30pm</td>
     <td class="tg-73oq">Invited talks</td>
-    <td class="tg-73oq">Isaac Tamblyn (Cash App) </td> 
-    
+    <td class="tg-73oq">Isaac Tamblyn (Cash App) 
+      <br>&nbsp;&nbsp;<em>Title: Agent based models of financial platforms for machine learning development</em></td>
   </tr>
   <tr>
     <td class="tg-73oq">1:30pm</td>
     <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq">Visual Perspectives on Finance Time Series</td>
+    <td class="tg-73oq"></td>
     <td class="tg-73oq">Zhen Zeng (J.P.Morgan Chase)
+      <br>&nbsp;&nbsp;<em>Title: Visual Perspectives on Finance Time Series</em>
       <br><br><i>Host: Grace Wang</i> </td> 
   </tr>
   <tr>
