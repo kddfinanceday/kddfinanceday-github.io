@@ -21,6 +21,7 @@ author_profile: false
     <td class="tg-73oq">10:15am</td>
     <td class="tg-73oq">Morning Keynote Speech</td>
     <td class="tg-73oq">Manuel Veloso (J.P.Morgan Chase/CMU)
+      <br>&nbsp;&nbsp;<em>Human-AI Interaction in Finance: A Learning Journey</em> <br>
       <br><br><i>Host: Daniel Borrajo</i>
     </td>
   </tr>
