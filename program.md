@@ -21,7 +21,8 @@ author_profile: false
     <td class="tg-73oq">10:15am</td>
     <td class="tg-73oq">Morning Keynote Speech</td>
     <td class="tg-73oq">Manuel Veloso (J.P.Morgan Chase/CMU)
-      <br>&nbsp;&nbsp;<em>Title: Human-AI Interaction in Finance: A Learning Journey</em>      
+      <br>&nbsp;&nbsp;<em>Title: Human-AI Interaction in Finance: A Learning Journey</em> 
+      <br><i>Host: Daniel Borrajo</i>
     </td>
   </tr>
   <tr>
@@ -29,8 +30,7 @@ author_profile: false
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">Invited talks</td>
     <td class="tg-73oq">Gregor Schubert (UCLA) 
-      <br>&nbsp;&nbsp;<em>Title: Generative AI and Firm Values</em> 
-      <br><i>Host: Daniel Borrajo</i></td>
+      <br>&nbsp;&nbsp;<em>Title: Generative AI and Firm Values</em> </td>
   </tr>
   <tr>
     <td class="tg-73oq">10:45am</td>
