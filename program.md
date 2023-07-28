@@ -79,14 +79,14 @@ author_profile: false
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">Afternoon Keynote Speech</td>
     <td class="tg-73oq">Susan Athey (Stanford University) 
-       <br>&nbsp;&nbsp;<em>Foundation Models for Economic Data: Applications to Modeling Career Trajectories</td> 
+       <br>&nbsp;&nbsp;<em>Title: Foundation Models for Economic Data: Applications to Modeling Career Trajectories</em></td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">3:45pm</td>
-    <td class="tg-73oq">The Data Science Perspective on Real Estate Investments</td>
-    <td class="tg-73oq">
-      Ron Bekkerman (Cherr)       </td> 
+    <td class="tg-73oq">Invited talks</td>
+    <td class="tg-73oq">Ron Bekkerman (Cherr)       
+      <br>&nbsp;&nbsp;<em>Title: The Data Science Perspective on Real Estate Investments</em></td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:45pm</td>
