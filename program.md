@@ -35,6 +35,7 @@ author_profile: false
   <tr>
     <td class="tg-73oq">10:45am</td>
     <td class="tg-73oq">11:15am</td>
+    <td class="tg-73oq"></td>
     <td class="tg-73oq">An Bo (Nanyang Technological University, Singapore)
       <br>&nbsp;&nbsp;<em>Title: Reinforcement Learning for Quantitative Trading</em><br>
       <br><i>Host: Grace Wang</i> </td>
