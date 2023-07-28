@@ -51,13 +51,14 @@ author_profile: false
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Lunch Time Keynote Speech</td>
     <td class="tg-73oq">Subbarao Kambhampati (Arizona State University)
-      <br>&nbsp;&nbsp;<em>Title: LLMs can't plan--But they can help you in Planning</em><br>
+      <br>&nbsp;&nbsp;<em>Title: LLMs can't plan--But they can help you in Planning</em></td>
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">1:30pm</td>
-    <td class="tg-73oq">Agent based models of financial platforms for machine learning development</td>
+    <td class="tg-73oq">Invited talks</td>
     <td class="tg-73oq">Isaac Tamblyn (Cash App) </td> 
+    
   </tr>
   <tr>
     <td class="tg-73oq">1:30pm</td>
