@@ -35,7 +35,7 @@ organizers_row_first:
     btn_class: "btn--primary"
 
 organizers_row_second:
-  - image_path: assets/images/jingyi.jpg
+  - image_path: assets/images/jingyi_photo.jpg
     alt: "Jingyi Gu"
     title: "Jingyi Gu"
     excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
