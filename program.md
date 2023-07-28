@@ -9,8 +9,6 @@ author_profile: false
 ---
 KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in room Grand A in the Long Beach Convention & Entertainment Center.
 
-Join us at KDD Finance Day 2023 on August 7, 2023, in Long Beach, CA. This event brings together experts in Data Mining, AI, Economy, and Finance for fruitful discussions, fostering collaboration between academia and industry. Delve into the latest developments in FinTech technology and its promising future. Our esteemed lineup of speakers are from renowned institutions like Stanford and UCLA, along with industry leaders such as J.P.Morgan and Blackrock. Join us and contribute diverse perspectives to this engaging event! We will be in Room **Grand A**.
-
 <table class="tg">
 <tbody>
   <tr>
