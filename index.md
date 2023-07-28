@@ -22,8 +22,7 @@ organizers_row_first:
     title: "Daniel Borrajo"
     excerpt: |
          Executive Director, J.P. Morgan AI Research 
-         Professor at Universidad Carlos III de Madrid
-         
+         Professor at Universidad Carlos III de Madrid   
     url: "http://www.plg.inf.uc3m.es/~dborrajo/"
     btn_label: "Homepage"
     btn_class: "btn--primary"
@@ -35,6 +34,15 @@ organizers_row_first:
     btn_label: "Homepage"
     btn_class: "btn--primary"
 
+organizers_row_second:
+  - image_path: assets/images/jingyi.jpg
+    alt: "Jingyi Gu"
+    title: "Jingyi Gu"
+    excerpt: "Ph.D. Candidate, New Jersey Institute of Technology"
+    url: "https://jingyigu.github.io/homepage.github.io//"
+    btn_label: "Homepage"
+    btn_class: "btn--primary"
+    
 sponsorship:
   - image_path: assets/images/nec.png
     alt: "NEC Laboratories America, Inc. (NEC Labs)"
@@ -66,7 +74,10 @@ Join us at KDD Finance Day 2023 on August 7, 2023, in Long Beach, CA. This event
 
 {% include feature_row id="organizers_row_first" %}
 
+
+## Web Chair
 {% include feature_row id="organizers_row_second" %}
+
 
 ## Sponsorship
 
