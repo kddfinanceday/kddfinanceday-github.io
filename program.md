@@ -136,18 +136,14 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
-    <td class="tg-73oq">1:30pm</td>
+    <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">Invited talks</td>
     <td class="tg-73oq">Isaac Tamblyn (Cash App) 
-      <br>&nbsp;&nbsp;<em>Title: Agent based models of financial platforms for machine learning development</em></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">1:30pm</td>
-    <td class="tg-73oq">2:00pm</td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq">Zhen Zeng (J.P.Morgan Chase)
+      <br>&nbsp;&nbsp;<em>Title: Agent based models of financial platforms for machine learning development</em>
+      <br>Zhen Zeng (J.P.Morgan Chase)
       <br>&nbsp;&nbsp;<em>Title: Visual Perspectives on Finance Time Series</em>
-      <br><br><i>Host: Grace Wang</i> </td> 
+      <br><br><i>Host: Grace Wang</i> 
+    </td>
   </tr>
   <tr>
     <td class="tg-65px">2:00pm</td>
@@ -164,25 +160,16 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
-    <td class="tg-73oq">3:45pm</td>
+    <td class="tg-73oq">4:45pm</td>
     <td class="tg-73oq">Invited talks</td>
     <td class="tg-73oq">Ron Bekkerman (Cherr)       
-      <br>&nbsp;&nbsp;<em>Title: The Data Science Perspective on Real Estate Investments</em></td> 
-  </tr>
-  <tr>
-    <td class="tg-73oq">3:45pm</td>
-    <td class="tg-73oq">4:15pm</td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq">Dhagash Mehta (BlackRock)
-      <br>&nbsp;&nbsp;<em>Title:Similarity Learning in Finance</em></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">4:15pm</td>
-    <td class="tg-73oq">4:45pm</td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq">Jay Pujara (USC)
+      <br>&nbsp;&nbsp;<em>Title: The Data Science Perspective on Real Estate Investments</em>
+      <br>Dhagash Mehta (BlackRock)
+      <br>&nbsp;&nbsp;<em>Title:Similarity Learning in Finance</em>
+      <br>Jay Pujara (USC)
       <br>&nbsp;&nbsp;<em>Title: Using Structured Knowledge for Better Modeling of Financial Data</em>
-      <br><br><i>Host: Grace Wang</i> </td> 
+      <br><br><i>Host: Grace Wang</i> 
+    </td> 
   </tr>
   <tr>
     <td class="tg-feht">4:45pm</td>
