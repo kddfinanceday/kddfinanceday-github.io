@@ -34,7 +34,7 @@ afternoonspeaker:
     url: "https://gsb-faculty.stanford.edu/susan-athey/"
     excerpt: |
          The Economics of Technology Professor, Stanford University  \
-         Senior fellow, Stanford Institute for Economic Policy Research  \
+         2023 President of the American Economics Association  \
          First female winner of the John Bates Clark Medal
          
 dhagash:
