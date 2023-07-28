@@ -92,8 +92,9 @@ zhen:
     
 ---
 KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in **room Grand A** in the Long Beach Convention & Entertainment Center.
-<font size="5">
-<table class="tg" style="font-size: 22px">
+
+
+<table class="tg">
 <tbody>
   <tr>
     <th class="tg-feht">9:00am</th>
