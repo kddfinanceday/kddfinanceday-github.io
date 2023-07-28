@@ -112,18 +112,14 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
   </tr>
   <tr>
     <td class="tg-73oq">10:15am</td>
-    <td class="tg-73oq">10:45am</td>
+    <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq">Invited talks</td>
     <td class="tg-73oq">Gregor Schubert (UCLA) 
-      <br>&nbsp;&nbsp;<em>Title: Generative AI and Firm Values</em> </td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">10:45am</td>
-    <td class="tg-73oq">11:15am</td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq">An Bo (Nanyang Technological University, Singapore)
+      <br>&nbsp;&nbsp;<em>Title: Generative AI and Firm Values</em> 
+      <br>An Bo (Nanyang Technological University, Singapore)
       <br>&nbsp;&nbsp;<em>Title: Reinforcement Learning for Quantitative Trading</em>
-      <br><br><i>Host: Grace Wang</i> </td>
+      <br><br><i>Host: Grace Wang</i> 
+    </td>
   </tr>
   <tr>
     <td class="tg-vwhn">11:15pm</td>
