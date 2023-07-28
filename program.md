@@ -115,9 +115,9 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <td class="tg-73oq">10:15am</td>
     <td class="tg-73oq">11:15am</td>
     <td class="tg-73oq">Invited talks</td>
-    <td class="tg-73oq">Gregor Schubert (UCLA) 
+    <td class="tg-73oq"><a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/gregor-schubert">Gregor Schubert</a> (UCLA) 
       <br>&nbsp;&nbsp;<em>Title: Generative AI and Firm Values</em> 
-      <br>An Bo (Nanyang Technological University, Singapore)
+      <br><a href="https://personal.ntu.edu.sg/boan/">An Bo</a> (Nanyang Technological University, Singapore)
       <br>&nbsp;&nbsp;<em>Title: Reinforcement Learning for Quantitative Trading</em>
       <br><br><i>Host: Grace Wang</i> 
     </td>
@@ -132,16 +132,16 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <td class="tg-73oq">12:00pm</td>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Lunchtime Keynote</td>
-    <td class="tg-73oq"><b>Subbarao Kambhampati (Arizona State University)</b>
+    <td class="tg-73oq"><b><a href="https://rakaposhi.eas.asu.edu">Subbarao Kambhampati</a> (Arizona State University)</b>
       <br>&nbsp;&nbsp;<em><b>Title: LLMs can't plan--But they can help you in Planning</b></em></td>
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">2:00pm</td>
     <td class="tg-73oq">Invited talks</td>
-    <td class="tg-73oq">Isaac Tamblyn (Cash App) 
+    <td class="tg-73oq"><a href="https://www.linkedin.com/in/itamblyn/">Isaac Tamblyn</a> (Cash App) 
       <br>&nbsp;&nbsp;<em>Title: Agent based models of financial platforms for machine learning development</em>
-      <br>Zhen Zeng (J.P.Morgan Chase)
+      <br><a href="https://www.linkedin.com/in/zhenzengzz/">Zhen Zeng</a> (J.P.Morgan Chase)
       <br>&nbsp;&nbsp;<em>Title: Visual Perspectives on Finance Time Series</em>
       <br><br><i>Host: Grace Wang</i> 
     </td>
@@ -156,18 +156,18 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <td class="tg-73oq">2:15pm</td>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">Afternoon Keynote</td>
-    <td class="tg-73oq"><b>Susan Athey (Stanford University)</b>
+    <td class="tg-73oq"><b><a href="https://gsb-faculty.stanford.edu/susan-athey/">Susan Athey</a> (Stanford University)</b>
        <br>&nbsp;&nbsp;<em><b>Title: Foundation Models for Economic Data: Applications to Modeling Career Trajectories</b></em></td> 
   </tr>
   <tr>
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">4:45pm</td>
     <td class="tg-73oq">Invited talks</td>
-    <td class="tg-73oq">Ron Bekkerman (Cherr)       
+    <td class="tg-73oq"><a href="https://www.linkedin.com/in/bekkerman/">Ron Bekkerman</a> (Cherr)       
       <br>&nbsp;&nbsp;<em>Title: The Data Science Perspective on Real Estate Investments</em>
-      <br>Dhagash Mehta (BlackRock)
+      <br><a href="https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/">Dhagash Mehta</a> (BlackRock)
       <br>&nbsp;&nbsp;<em>Title:Similarity Learning in Finance</em>
-      <br>Jay Pujara (USC)
+      <br><a href="https://www.jauntslab.org">Jay Pujara</a> (USC)
       <br>&nbsp;&nbsp;<em>Title: Using Structured Knowledge for Better Modeling of Financial Data</em>
       <br><br><i>Host: Grace Wang</i> 
     </td> 
