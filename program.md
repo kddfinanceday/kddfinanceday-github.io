@@ -163,7 +163,7 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <td class="tg-73oq">3:15pm</td>
     <td class="tg-73oq">4:45pm</td>
     <td class="tg-73oq">Invited talks</td>
-    <td class="tg-73oq"><a href="https://www.linkedin.com/in/bekkerman/">Ron Bekkerman</a> (Cherr)       
+    <td class="tg-73oq"><a href="https://www.linkedin.com/in/bekkerman/">Ron Bekkerman</a> (Cherre)       
       <br>&nbsp;&nbsp;<em>Title: The Data Science Perspective on Real Estate Investments</em>
       <br><a href="https://www.linkedin.com/in/dhagash-mehta-ph-d-45000111a/">Dhagash Mehta</a> (BlackRock)
       <br>&nbsp;&nbsp;<em>Title:Similarity Learning in Finance</em>
