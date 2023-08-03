@@ -133,7 +133,7 @@ KDD Finance Day 2023 will take place on August 7, 2023, 9:15 am-5:00 pm PDT in *
     <td class="tg-73oq">1:00pm</td>
     <td class="tg-73oq">Lunchtime Keynote</td>
     <td class="tg-73oq"><b><a href="https://rakaposhi.eas.asu.edu">Subbarao Kambhampati</a> (Arizona State University)</b>
-      <br>&nbsp;&nbsp;<em><b>Title: LLMs can't plan--But they can help you in Planning</b></em></td>
+      <br>&nbsp;&nbsp;<em><b>Title: Avenging Polanyi's Revenge: Exploiting the Approximate Omniscience of LLMs in Planning without Deluding Yourself In the Process</b></em></td>
   </tr>
   <tr>
     <td class="tg-73oq">1:00pm</td>
