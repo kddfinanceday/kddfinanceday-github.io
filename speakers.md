@@ -28,7 +28,7 @@ lunchtimespeaker:
 
 
 afternoonspeaker:
-  - image_path: assets/images/susan.jpg
+  - image_path: assets/images/susan1.jpg
     alt: "Susan Athey"
     title: "Susan Athey"
     url: "https://gsb-faculty.stanford.edu/susan-athey/"
